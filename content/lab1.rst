@@ -62,7 +62,7 @@
 .. image:: https://upload.wikimedia.org/wikipedia/commons/3/35/Computer_Workstation_Variables.jpg
    :width: 100%
 
-	Автор картинки: Berkeley Lab - Ergonomics, Integrated Safety Management, Berkeley Lab., Общественное достояние
+*Автор картинки: Berkeley Lab - Ergonomics, Integrated Safety Management, Berkeley Lab., Общественное достояние*
 
 Длительная работа за компьютером может испортить здоровье! А может и не испортить.
 Спасением здоровья трудящихся озабочена целая наука `**эргономика**`__.
