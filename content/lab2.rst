@@ -3,7 +3,7 @@
 
 :date: 2018-09-08 09:00
 :summary: Работа в командной строке Linux.
-:status: draft
+:status: published
 
 
 .. default-role:: code
