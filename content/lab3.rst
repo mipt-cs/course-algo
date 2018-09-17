@@ -3,7 +3,6 @@
 
 :date: 2018-09-16 09:00
 :summary: Скрипты командной строки Linux.
-:status: draft
 
 
 .. default-role:: code
