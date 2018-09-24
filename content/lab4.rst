@@ -3,7 +3,6 @@
 
 :date: 2018-09-24 09:00
 :summary: Сборка проекта на С++ в GNU/Linux.
-:status: draft
 
 .. default-role:: code
 
