@@ -58,7 +58,7 @@ int atoi(const char *str);  float atoi(const char *str);  - преобразую
 Упражнение 1.
 Создайте программу, которая будет обрабатывать параметры функции main:
 
-1)      Если параметров нет, то выводит "Not arguments";
+1)      Если параметров нет, то выводит "No arguments";
 
 2)      Если параметр один, то выводит его;
 
@@ -67,6 +67,43 @@ int atoi(const char *str);  float atoi(const char *str);  - преобразую
 4)      Если параметров > 3, то выводит максимальный из них.
 
 Запустите эту программу из терминала для каждого из 4 случаев.
+
+
+
+Следующая программа показывает, как передавать аргументы командной строки:
+
+
+.. code-block:: c
+
+   #include <iostream> 
+   using namespace std; 
+   int main( int argc,      // Количество элементов в массиве argv
+          char *argv[],   // Массив аргументов командной строки 
+          char *envp[] )  // Массив переменных окружнения 
+   { 
+    int count; 
+      // Показать аргументы командной строки
+    cout << "\nCommand-line arguments:\n"; 
+    for( i = 0; i < argc; i++ ) 
+         cout << "  argv[" << i << "]   " 
+                << argv[count] << "\n"; 
+    } 
+
+
+char *envp[] – это массив указателей на значения переменных окружения. С помощью него можно их вывести. Запустите код:
+
+.. code-block:: c
+   
+   #include <iostream> 
+   using namespace std;
+   main(int argc, char** argv, char** env)
+    {      int i = 0;
+    while(env[i] != 0)
+    {
+       cout << "\n" << env[i++];
+    }
+    return 0;
+    }
 
 
 
