@@ -425,6 +425,7 @@ seekg( pos_type position );   seekg( off_type offset, ios::seekdir origin)
 
 
 Основные типы данных в C++
+-------------
 
 
 •	int — целочисленный тип данных.
@@ -439,6 +440,7 @@ seekg( pos_type position );   seekg( off_type offset, ios::seekdir origin)
 
 
 Инициализация переменных C++.
+-------------
 
 
 Тип переменная ;  Например :
@@ -454,6 +456,7 @@ seekg( pos_type position );   seekg( off_type offset, ios::seekdir origin)
 
 
 Условия С++.
+-------------
 
 .. code-block:: c
 
@@ -481,6 +484,7 @@ seekg( pos_type position );   seekg( off_type offset, ios::seekdir origin)
 
 
 Циклы C++.
+-------------
 
 .. code-block:: c 
 
