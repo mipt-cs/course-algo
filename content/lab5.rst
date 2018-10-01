@@ -505,8 +505,11 @@ seekg( pos_type position );   seekg( off_type offset, ios::seekdir origin)
    while (Условие);
    
    
+   
 Дополнительные задачи.
 ========
+
+
 
 1. Во входном файле in.txt записана последовательность из 10 различных целых чисел. Определите, сколько треугольников можно построить со сторонами, длины которых равны трём разным числам последовательности.
 
@@ -519,6 +522,7 @@ seekg( pos_type position );   seekg( off_type offset, ios::seekdir origin)
 
 Ввод
 =======
+
 
 5
 
@@ -537,6 +541,7 @@ seekg( pos_type position );   seekg( off_type offset, ios::seekdir origin)
 
 Вывод
 =======
+
 
 (0, 0)
 
