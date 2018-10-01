@@ -3,6 +3,7 @@
 
 :date: 2018-09-30 09:00
 :summary: Анализ числовых последовательностей С++.
+:status: published 
 
 .. default-role:: code
 
