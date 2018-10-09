@@ -487,7 +487,7 @@ Inf может быть положительной или отрицательн
       fout  << b; 
       fout  << c;  
       fout.close(); 
-      ifstream fin("out.txt ");
+      ifstream fin("out.txt");
       fin >> a1 >> b1 >> c1; 
       fin.close();    
       cout  << a1 << endl << b1  << endl << c1 << endl;
