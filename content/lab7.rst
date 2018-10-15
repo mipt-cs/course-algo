@@ -93,25 +93,26 @@
 разыменования указателя \*. Необходимо поставить звёздочку перед именем и получим доступ к значению указателя. 
 
 Рассмотрим программу, которая будет использовать указатели.
-В программировании принято добавлять к имени указателя приставку ptr, таким образом, получится осмысленное имя указателя, 
+В программировании принято добавлять к имени указателя приставку Ptr, таким образом, получится осмысленное имя указателя, 
 и уже с обычной переменной такой указатель не спутаешь. 
 
 .. code-block:: c
 
    #include <iostream>
    using namespace std;
-   int main(int argc, char* argv[])
+   
+   int main()
     {
-    int var = 123; // инициализация переменной var числом 123
-    int *ptrvar = &var; // указатель на переменную var (присвоили адрес переменной указателю)
-    cout << "&var    = " << &var << endl;// адрес переменной var содержащийся в памяти, извлечённый операцией взятия адреса 
-    cout << "ptrvar  = " << ptrvar << endl;// адрес переменной var, является значением указателя ptrvar 
-    cout << "var     = " << var << endl; // значение в переменной var
-    cout << "*ptrvar = " << *ptrvar << endl; // вывод значения содержащегося в переменной var через указатель, операцией разыменования указателя
-    return 0;
+    	int var = 123; // инициализация переменной var числом 123
+    	int *PtrVar = &var; // указатель на переменную var (присвоили адрес переменной указателю)
+    	cout << "&var    = " << &var << endl;// адрес переменной var содержащийся в памяти, извлечённый операцией взятия адреса 
+    	cout << "PtrVar  = " << PtrVar << endl;// адрес переменной var, является значением указателя ptrvar 
+   	cout << "var     = " << var << endl; // значение в переменной var
+    	cout << "*PtrVar = " << *PtrVar << endl; // вывод значения содержащегося в переменной var через указатель, операцией разыменования указателя
+    	return 0;
     }
 
-Итак, программа показала, что строки 11 и 12 выводят идентичный адрес, то есть адрес переменной var, который содержится 
+Итак, программа показала, что строки 8 и 9 выводят идентичный адрес, то есть адрес переменной var, который содержится 
 в указателе ptrvar. Тогда как операция разыменования указателя \*ptrvar обеспечивает доступ к значению, на которое
 ссылается указатель. Указатели можно сравнивать на равенство или неравенство. Рассмотрим программу, которая будет
 сравнивать адреса указателей.
@@ -120,29 +121,27 @@
 
    #include <iostream>
    using namespace std;
-   int main(int argc, char* argv[])
+   
+   int main()
    {
-    int var1 = 123; // инициализация переменной var1 числом 123
-    int var2 = 99; // инициализация переменной var2 числом 99
-    int *ptrvar1 = &var1; // указатель на переменную var1
-    int *ptrvar2 = &var2; // указатель на переменную var2
-    cout << "var1    = " << var1 << endl;
-    cout << "var2    = " << var2 << endl;
-    cout << "ptrvar1 = " << ptrvar1 << endl;
-    cout << "ptrvar2 = " << ptrvar2 << endl;
-    if (ptrvar1 > ptrvar2) // сравниваем значения указателей, то есть адреса переменных
-        cout << "ptrvar1 > ptrvar2" << endl;
-    if (*ptrvar1 > *ptrvar2) // сравниваем значения переменных, на которые ссылаются указатели
-        cout << "*ptrvar1 > *ptrvar2" << endl;
-     return 0;
+    	int var1 = 123; // инициализация переменной var1 числом 123
+   	int var2 = 99; // инициализация переменной var2 числом 99
+    	int *PtrVar1 = &var1; // указатель на переменную var1
+    	int *PtrVar2 = &var2; // указатель на переменную var2
+    	cout << "var1    = " << var1 << endl;
+    	cout << "var2    = " << var2 << endl;
+    	cout << "PtrVar1 = " << PtrVar1 << endl;
+    	cout << "PtrVar2 = " << PtrVar2 << endl;
+    	if (PtrVar1 > PtrVar2) // сравниваем значения указателей, то есть адреса переменных
+        	cout << "PtrVar1 > PtrVar2" << endl;
+    	if (*PtrVar1 > *PtrVar2) // сравниваем значения переменных, на которые ссылаются указатели
+        	cout << "*PtrVar1 > *PtrVar2" << endl;
+     	return 0;
      }
 
 В первом случае, мы сравнивали адреса  переменных, и, причём адрес второй переменной, всегда меньше адреса первой переменной. 
 При каждом запуске программы адреса выделяются разные. Во втором случае мы сравнивали значения этих переменных, используя 
 операцию разыменования указателя.
-
-Из арифметических операций, чаще всего используются операции сложения, вычитания, инкремент и декремент, так как 
-с помощью этих операций, например в массивах, вычисляется адрес следующего элемента.
 
 Указатели могут ссылаться на другие указатели. При этом в ячейках памяти, на которые будут ссылаться первые указатели, 
 будут содержаться не значения, а адреса вторых указателей. Число символов * при объявлении указателя показывает 
@@ -153,19 +152,20 @@
 
    #include <iostream>
    using namespace std;
-   int _tmain(int argc, _TCHAR* argv[])
+   
+   int main()
    {
-    int var = 123; // инициализация переменной var числом 123
-    int *ptrvar = &var; // указатель на переменную var
-    int **ptr_ptrvar = &ptrvar; // указатель на указатель на переменную var
-    int ***ptr_ptr_ptrvar = &ptr_ptrvar;
-    cout << " var\t\t= " << var << endl;
-    cout << " *ptrvar\t= " << *ptrvar << endl;
-    cout << " **ptr_ptrvar   = " << **ptr_ptrvar << endl; // два раза разименовываем указатель, так как он второго порядка 
-    cout << " ***ptr_ptrvar  = " << ***ptr_ptr_ptrvar << endl; // указатель третьего порядка
-    cout << "\n ***ptr_ptr_ptrvar -> **ptr_ptrvar -> *ptrvar ->      var -> "<< var << endl;
-    cout << "\t  " << &ptr_ptr_ptrvar<< " -> " << "    " << &ptr_ptrvar << " ->" << &ptrvar << " -> " << &var << " -> " << var << endl;
-    return 0;
+    	int var = 123; // инициализация переменной var числом 123
+    	int *PtrVar = &var; // указатель на переменную var
+    	int **Ptr_PtrVar = &PtrVar; // указатель на указатель на переменную var
+    	int ***Ptr_Ptr_PtrVar = &Ptr_PtrVar;
+    	cout << " var\t\t= " << var << endl;
+    	cout << " *PtrVar\t= " << *PtrVar << endl;
+    	cout << " **Ptr_PtrVar   = " << **Ptr_PtrVar << endl; // два раза разименовываем указатель, так как он второго порядка 
+    	cout << " ***Ptr_PtrVar  = " << ***Ptr_Ptr_PtrVar << endl; // указатель третьего порядка
+    	cout << "\n ***Ptr_Ptr_PtrVar -> **Ptr_PtrVar -> *PtrVar ->      var -> " << var << endl;
+    	cout << "\t  " << &Ptr_Ptr_PtrVar<< " -> " << "    " << &Ptr_PtrVar << " ->" << &PtrVar << " -> " << &var << " -> " << var << endl;
+    	return 0;
     }
 
 
@@ -199,22 +199,25 @@
 
   #include <iostream>
   #include <ctime> 
-  #include <iomanip> 
+  #include <iomanip>
+  #include <cstdlib>
   using namespace std;
   
-  int main(int argc, char* argv[])
+  int main()
    {
-    srand(time(0)); // генерация случайных чисел
-    float *ptrarray = new float [10]; // создание динамического массива вещественных чисел на десять элементов
-        for (int count = 0; count < 10; count++) 
-
-            ptrarray[count] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
+    	srand(time(0)); // генерация случайных чисел
+	cout << " Введите размер массива ";
+	int N;
+	cin >> N;
+    	float *PtrArray = new float [N]; // создание динамического массива вещественных чисел на десять элементов
+        for (int count = 0; count < N; count++) 
+        	PtrArray[count] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
         cout << "array = ";
-        for (int count = 0; count < 10; count++)
-            cout << setprecision(2) << ptrarray[count] << "    ";
-        delete [] ptrarray; // высвобождение памяти 
+        for (int count = 0; count < N; count++)
+        	cout << setprecision(2) << PtrArray[count] << "    ";
+        delete [] PtrArray; // высвобождение памяти 
         cout << endl;
-    return 0;
+    	return 0;
     }
 
   
@@ -227,36 +230,37 @@
   #include <algorithm>
   #include <ctime>
   #include <iomanip>
+  #include <cstdlib>
   using namespace std;
-   void initializemassive(int **M, int m, int n);
-   void initializemassive(float **ptrarray, int m, int n)
+
+  void initializemassive(float **PtrArray, int m, int n)
    {
      // заполнение массива 
-    for (int count_row = 0; count_row < 2; count_row++) 
-        for (int count_column = 0; count_column < 5; count_column++) 
-            ptrarray[count_row][count_column] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
+    	for (int count_row = 0; count_row < 2; count_row++) 
+        	for (int count_column = 0; count_column < 5; count_column++) 
+            		PtrArray[count_row][count_column] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
     // вывод массива 
-    for (int count_row = 0; count_row < 2; count_row++) 
-    {
-        for (int count_column = 0; count_column < 5; count_column++) 
-            cout << setw(4) <<setprecision(2) << ptrarray[count_row][count_column] << "   ";
-        cout << endl;
-    }
+    	for (int count_row = 0; count_row < 2; count_row++) 
+    	{
+        	for (int count_column = 0; count_column < 5; count_column++) 
+            		cout << setw(4) <<setprecision(2) << PtrArray[count_row][count_column] << "   ";
+        	cout << endl;
+    	}
    }
 
     int main()
    {
-     srand(time(0)); // генерация случайных чисел
+    	srand(time(0)); // генерация случайных чисел
     // динамическое создание двумерного массива вещественных чисел на десять элементов
-    float **ptrarray = new float* [2]; // две строки в массиве
-    for (int count = 0; count < 2; count++)
-        ptrarray[count] = new float [5]; // и пять столбцов
-    initializemassive (ptrarray, 2, 5);
+    	float **PtrArray = new float* [2]; // две строки в массиве
+    	for (int count = 0; count < 2; count++)
+        	PtrArray[count] = new float [5]; // и пять столбцов
+    	initializemassive (PtrArray, 2, 5);
 
     // удаление двумерного динамического массива
-    for (int count = 0; count < 2; count++) 
-        delete []ptrarray[count];
-    return 0;
+    	for (int count = 0; count < 2; count++) 
+        	delete []PtrArray[count];
+    	return 0;
     }
 
 
@@ -273,10 +277,11 @@
 .. code-block:: c
 
   ofstream   fout("out.txt");  
-  fout << “hello world”;   fout.close();
+  fout << “hello world”;   
+  fout.close();
   ifstream  fin("out.txt ");
   char  a1, b1, c1;
-  fin >> a1 >>b1 >> c1; 
+  fin >> a1 >> b1 >> c1; 
   fin.close();  
 
 
@@ -379,7 +384,7 @@
 
 Вычисление наименьшего общего кратного (least common multiplier, lcm) сводится к вычислению gcd следующим простым утверждением:
 
-gcd(a, b) ×lcm(a, b) = a×b.
+gcd(a, b) × lcm(a, b) = a × b.
 
 Таким образом, НОК также можно вычислить с помощью алгоритма Евклида:
 
@@ -476,25 +481,26 @@ F(n) = F(n-1) + F(n-2).
 .. code-block:: c
 
   #include <iostream>
-    using namespace std;
-    int main()
-  {
-  int n;
-  cout << "n= ";
-  cin >> n;
-  int *a = new int[n + 1];
-  for (int i = 0; i < n + 1; i++)
-    a[i] = i;
-  for (int p = 2; p < n + 1; p++)
+  using namespace std;
+  
+  int main()
    {
-    if (a[p] != 0)
-    {
-     cout << a[p] << endl;
-     for (int j = p*p; j < n + 1; j += p)
-         a[j] = 0;
+  	int n;
+  	cout << "n = ";
+  	cin >> n;
+  	int *a = new int[n + 1];
+  	for (int i = 0; i < n + 1; i++)
+    		a[i] = i;
+  	for (int p = 2; p < n + 1; p++)
+  	 {
+    		if (a[p] != 0)
+    		{
+     			cout << a[p] << endl;
+     	for (int j = p * p; j < n + 1; j += p)
+         	a[j] = 0;
+    		}
+   	 }
     }
-   }
-  }
 
 
 Упражнение 9.
@@ -649,7 +655,8 @@ F(n) = F(n-1) + F(n-2).
 	int res = 1;
 	while (n)
 		if (n & 1) {
-			res *= a;  	--n;
+			res *= a;
+			--n;
 		}
 		else {
 			a *= a;
