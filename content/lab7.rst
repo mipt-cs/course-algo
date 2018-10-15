@@ -3,7 +3,7 @@
 
 
 :date: 2018-10-15 09:00
-:summary: Арифметика с плавающей запятой.
+:summary: Массивы.
 :status: published 
 
 .. default-role:: code
