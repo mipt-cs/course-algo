@@ -260,6 +260,8 @@
     // удаление двумерного динамического массива
     	for (int count = 0; count < 2; count++) 
         	delete []PtrArray[count];
+	 
+	delete [] PtrArray;
     	return 0;
     }
 
