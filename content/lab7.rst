@@ -104,11 +104,11 @@
    int main()
     {
     	int var = 123; // инициализация переменной var числом 123
-    	int *PtrVar = &var; // указатель на переменную var (присвоили адрес переменной указателю)
+    	int *ptrVar = &var; // указатель на переменную var (присвоили адрес переменной указателю)
     	cout << "&var    = " << &var << endl;// адрес переменной var содержащийся в памяти, извлечённый операцией взятия адреса 
-    	cout << "PtrVar  = " << PtrVar << endl;// адрес переменной var, является значением указателя ptrvar 
+    	cout << "ptrVar  = " << ptrVar << endl;// адрес переменной var, является значением указателя ptrvar 
    	cout << "var     = " << var << endl; // значение в переменной var
-    	cout << "*PtrVar = " << *PtrVar << endl; // вывод значения содержащегося в переменной var через указатель, операцией разыменования указателя
+    	cout << "*ptrVar = " << *ptrVar << endl; // вывод значения содержащегося в переменной var через указатель, операцией разыменования указателя
     	return 0;
     }
 
@@ -126,16 +126,16 @@
    {
     	int var1 = 123; // инициализация переменной var1 числом 123
    	int var2 = 99; // инициализация переменной var2 числом 99
-    	int *PtrVar1 = &var1; // указатель на переменную var1
-    	int *PtrVar2 = &var2; // указатель на переменную var2
+    	int *ptrVar1 = &var1; // указатель на переменную var1
+    	int *ptrVar2 = &var2; // указатель на переменную var2
     	cout << "var1    = " << var1 << endl;
     	cout << "var2    = " << var2 << endl;
-    	cout << "PtrVar1 = " << PtrVar1 << endl;
-    	cout << "PtrVar2 = " << PtrVar2 << endl;
-    	if (PtrVar1 > PtrVar2) // сравниваем значения указателей, то есть адреса переменных
-        	cout << "PtrVar1 > PtrVar2" << endl;
-    	if (*PtrVar1 > *PtrVar2) // сравниваем значения переменных, на которые ссылаются указатели
-        	cout << "*PtrVar1 > *PtrVar2" << endl;
+    	cout << "ptrVar1 = " << ptrVar1 << endl;
+    	cout << "ptrVar2 = " << ptrVar2 << endl;
+    	if (ptrVar1 > ptrVar2) // сравниваем значения указателей, то есть адреса переменных
+        	cout << "ptrVar1 > ptrVar2" << endl;
+    	if (*ptrVar1 > *ptrVar2) // сравниваем значения переменных, на которые ссылаются указатели
+        	cout << "*ptrVar1 > *ptrVar2" << endl;
      	return 0;
      }
 
@@ -156,15 +156,15 @@
    int main()
    {
     	int var = 123; // инициализация переменной var числом 123
-    	int *PtrVar = &var; // указатель на переменную var
-    	int **Ptr_PtrVar = &PtrVar; // указатель на указатель на переменную var
-    	int ***Ptr_Ptr_PtrVar = &Ptr_PtrVar;
+    	int *ptrVar = &var; // указатель на переменную var
+    	int **ptr_ptrVar = &ptrVar; // указатель на указатель на переменную var
+    	int ***ptr_ptr_ptrVar = &ptr_ptrVar;
     	cout << " var\t\t= " << var << endl;
-    	cout << " *PtrVar\t= " << *PtrVar << endl;
-    	cout << " **Ptr_PtrVar   = " << **Ptr_PtrVar << endl; // два раза разименовываем указатель, так как он второго порядка 
-    	cout << " ***Ptr_PtrVar  = " << ***Ptr_Ptr_PtrVar << endl; // указатель третьего порядка
-    	cout << "\n ***Ptr_Ptr_PtrVar -> **Ptr_PtrVar -> *PtrVar ->      var -> " << var << endl;
-    	cout << "\t  " << &Ptr_Ptr_PtrVar<< " -> " << "    " << &Ptr_PtrVar << " ->" << &PtrVar << " -> " << &var << " -> " << var << endl;
+    	cout << " *ptrVar\t= " << *ptrVar << endl;
+    	cout << " **ptr_ptrVar   = " << **ptr_ptrVar << endl; // два раза разименовываем указатель, так как он второго порядка 
+    	cout << " ***ptr_ptrVar  = " << ***ptr_ptr_ptrVar << endl; // указатель третьего порядка
+    	cout << "\n ***ptr_ptr_ptrVar -> **ptr_ptrVar -> *ptrVar ->      var -> " << var << endl;
+    	cout << "\t  " << &ptr_ptr_ptrVar<< " -> " << "    " << &ptr_ptrVar << " ->" << &ptrVar << " -> " << &var << " -> " << var << endl;
     	return 0;
     }
 
@@ -209,13 +209,13 @@
 	cout << " Введите размер массива ";
 	int N;
 	cin >> N;
-    	float *PtrArray = new float [N]; // создание динамического массива вещественных чисел на десять элементов
+    	float *ptrArray = new float [N]; // создание динамического массива вещественных чисел на десять элементов
         for (int count = 0; count < N; count++) 
-        	PtrArray[count] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
+        	ptrArray[count] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
         cout << "array = ";
         for (int count = 0; count < N; count++)
-        	cout << setprecision(2) << PtrArray[count] << "    ";
-        delete [] PtrArray; // высвобождение памяти 
+        	cout << setprecision(2) << ptrArray[count] << "    ";
+        delete [] ptrArray; // высвобождение памяти 
         cout << endl;
     	return 0;
     }
@@ -233,17 +233,17 @@
   #include <cstdlib>
   using namespace std;
 
-  void initializemassive(float **PtrArray, int m, int n)
+  void initializemassive(float **ptrArray, int m, int n)
    {
      // заполнение массива 
-    	for (int count_row = 0; count_row < 2; count_row++) 
-        	for (int count_column = 0; count_column < 5; count_column++) 
-            		PtrArray[count_row][count_column] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
+    	for (int count_row = 0; count_row < m; count_row++) 
+        	for (int count_column = 0; count_column < n; count_column++) 
+            		ptrArray[count_row][count_column] = (rand() % 10 + 1) / float((rand() % 10 + 1)); //заполнение массива случайными числами с масштабированием от 1 до 10
     // вывод массива 
-    	for (int count_row = 0; count_row < 2; count_row++) 
+    	for (int count_row = 0; count_row < m; count_row++) 
     	{
-        	for (int count_column = 0; count_column < 5; count_column++) 
-            		cout << setw(4) <<setprecision(2) << PtrArray[count_row][count_column] << "   ";
+        	for (int count_column = 0; count_column < n; count_column++) 
+            		cout << setw(4) <<setprecision(2) << ptrArray[count_row][count_column] << "   ";
         	cout << endl;
     	}
    }
@@ -252,16 +252,16 @@
    {
     	srand(time(0)); // генерация случайных чисел
     // динамическое создание двумерного массива вещественных чисел на десять элементов
-    	float **PtrArray = new float* [2]; // две строки в массиве
+    	float **ptrArray = new float* [2]; // две строки в массиве
     	for (int count = 0; count < 2; count++)
-        	PtrArray[count] = new float [5]; // и пять столбцов
-    	initializemassive (PtrArray, 2, 5);
+        	ptrArray[count] = new float [5]; // и пять столбцов
+    	initializemassive (ptrArray, 2, 5);
 
     // удаление двумерного динамического массива
     	for (int count = 0; count < 2; count++) 
-        	delete []PtrArray[count];
+        	delete []ptrArray[count];
 	 
-	delete [] PtrArray;
+	delete [] ptrArray;
     	return 0;
     }
 
