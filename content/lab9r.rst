@@ -37,7 +37,7 @@
 
     int main()
    {   
-        ifstream  fin("out.txt ");
+        ifstream  fin("out.txt");
      int N, M;       fin >> N >> M;      // ввод размеров двумерного массива
     // динамическое создание двумерного массива вещественных чисел 
     float **ptrArray = new float* [N]; // N строк в массиве
@@ -51,7 +51,7 @@
     for (int count_row = 0; count_row < N; count_row++) 
     {
         for (int count_column = 0; count_column < M; count_column++) 
-            cout << setw(4) <<setprecision(2) << ptrArray[count_row][count_column] << "   ";
+            cout << setw(4) << setprecision(2) << ptrArray[count_row][count_column] << "   ";
         cout << endl;
     }
     // удаление двумерного динамического массива
@@ -90,7 +90,7 @@
   int r= — 25;
   cout.setf(ios::right);
   cout.width(15);
-  cout<<«r=»<<r<<endl;
+  cout << "r= " << r << endl;
 
 
 Выравнивание по левой границе (по умолчанию):
@@ -100,7 +100,7 @@
   double r=—25.45;
   cout.setf(ios::left);
   cout.width(50);
-  cout<<«r=»<<r<<endl;
+  cout << "r= " << r << endl;
 
   
 
@@ -109,9 +109,9 @@
 .. code-block:: c
 
   bool a=true;
-  cout<<a<<endl;
+  cout << a << endl;
   cout.setf(ios::boolalpha);
-  cout<<a<<endl;
+  cout << a << endl;
 
 
 Вывод величин в десятичной системе счисления (по умолчанию):
@@ -119,7 +119,7 @@
 .. code-block:: c
 
   int r=—25;
-  cout<<«r=»<<r<<endl
+  cout << "r= " << r << endl;
 
 
   
@@ -130,7 +130,7 @@
   int p=23;
   cout.unsetf(ios::dec);
   cout.setf(ios::oct);
-  cout<<«p=»<<p<<endl;
+  cout << "p= " << p << endl;
 
 
 В шестнадцатеричной системе счисления (снять флаг вывод в десятичной):
@@ -140,7 +140,7 @@
   int p=23;
   cout.unsetf(ios::dec);
   cout.setf(ios::hex);
-  cout<<«p=»<<p<<endl;
+  cout << "p= " << p << endl;
 
   
 
@@ -151,7 +151,7 @@
   int r=—25;
   cout.unsetf(ios::dec);
   cout.setf(ios::hex|ios::showbase);
-  cout<<«p=»<<p<<endl;
+  cout << "p= " << p << endl;
 
   
 
@@ -162,7 +162,7 @@
   int p=29;
   cout.unsetf(ios::dec);
   cout.setf(ios::hex|ios::uppercase);
-  cout<<«p=»<<p<<endl;
+  cout << "p= " << p << endl;
 
 
 
@@ -172,7 +172,7 @@
 
   int p=29;
   cout.setf(ios::showpos);
-  cout<<«p=»<<p<<endl;
+  cout << "p= " << p << endl;
 
 
 Экспоненциальная форма вывода вещественных чисел:
@@ -181,7 +181,7 @@
 
   double p=146.673;
   cout.setf(ios::scientific);
-  cout<<«p=»<<p<<endl;
+  cout << "p= " << p << endl;
 
 
 
@@ -192,7 +192,7 @@
 
   double p=146.673;
   cout.setf(ios::fixed);
-  cout<<«p=»<<p<<endl;
+  cout << "p= " << p << endl;
  
 
 
@@ -694,14 +694,14 @@ A представляет собой указатель на указатель
 
 .. code-block:: c
 
-  void repch(char ch = ‘-‘, int k = 60) 
+  void repch(char ch = '-', int k = 60) 
   { 
      for(int i = 0; i < k; ++i) 
            cout << ch; 
   } 
   repch();        //--выводится 60 минусов
-  repch(‘+’);        //--выводится 60 плюсов
-  repch(‘=’,52);        //--выводится 52 равно
+  repch('+');        //--выводится 60 плюсов
+  repch('=',52);        //--выводится 52 равно
 
 
 Передача параметра по значению.
