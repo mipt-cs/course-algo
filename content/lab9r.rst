@@ -6,7 +6,7 @@
 
 
 :date: 2018-10-29 09:00
-:summary: Арифметика с плавающей запятой.
+:summary: Матрицы, вывод данных, функции и параметры.
 :status: published 
 
 .. default-role:: code
