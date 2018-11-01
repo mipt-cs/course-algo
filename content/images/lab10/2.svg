@@ -24,7 +24,7 @@
 	<rect x="55" y="184.5" class="st1" width="190" height="120"/>
 	<rect x="55" y="184.5" class="st2" width="190" height="120"/>
 	<text transform="matrix(1 0 0 1 115.9785 204.7119)" class="st3 st4 st5">node</text>
-	<text transform="matrix(1 0 0 1 115.9785 233.0119)" class="st4 st5">perv</text>
+	<text transform="matrix(1 0 0 1 115.9785 233.0119)" class="st4 st5">prev</text>
 	<text transform="matrix(1 0 0 1 115.9785 261.4119)" class="st4 st5">next</text>
 	<text transform="matrix(1 0 0 1 115.9785 289.7119)" class="st4 st5">data</text>
 </g>
@@ -33,7 +33,7 @@
 	<rect x="323" y="184.5" class="st1" width="190" height="120"/>
 	<rect x="323" y="184.5" class="st2" width="190" height="120"/>
 	<text transform="matrix(1 0 0 1 383.9785 204.7119)" class="st3 st4 st5">node</text>
-	<text transform="matrix(1 0 0 1 383.9785 233.0119)" class="st4 st5">perv</text>
+	<text transform="matrix(1 0 0 1 383.9785 233.0119)" class="st4 st5">prev</text>
 	<text transform="matrix(1 0 0 1 383.9785 261.4119)" class="st4 st5">next</text>
 	<text transform="matrix(1 0 0 1 383.9785 289.7119)" class="st4 st5">data</text>
 </g>
