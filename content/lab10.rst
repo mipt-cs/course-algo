@@ -41,18 +41,18 @@
 
   struct Student
   {
-    char name[100]; // Student's name
-    int age, group; // Student's age and group
+    char name[100]; // Student name
+    int age, group; // Student age and group
   };
 
   void get_student(Student *S)
   {
     /**
-     * read information about student from kayboard
+     * read information about student from keyboard
      */
     std::cout << "Input student name : ";
     std::cin.getline(S->name, 100); // read name
-    std::cout << "Input age and gpoup: ";
+    std::cout << "Input age and group: ";
     std::cin >> S->age >> (*S).group; // read age and group
   }
 
@@ -82,7 +82,7 @@
 
 **Обратите внимание:** внутри функции, где переменная :c:`S` — указатель на структуру, для обращения к полю необходимо её сначала разыменовать (:c:`(*S).group`) или же использовать оператор стрелка (:c:`S->age`)
 
-**Важно:** *если Вам прийдётся использовать структуры в C — имейте в виду, что работа со структурами там отличаеться от C++*
+**Важно:** *если Вам придётся использовать структуры в C — имейте в виду, что работа со структурами там отличается от C++*
 
 Стэк
 ====
@@ -123,7 +123,7 @@
   {
     node *new_node = new node;  // create new node
     new_node->data = data;    // save data to node
-    new_node->next = S->last; // save address of pervios data
+    new_node->next = S->last; // save address of previous data
     S->last = new_node;     // set new node as last added
   }
   
@@ -132,7 +132,7 @@
   {
     assert(S->last != nullptr); // check stack is not empty
     node *old_node = S->last;   // save old node
-    S->last = old_node->next;   // new last - next afater current last
+    S->last = old_node->next;   // new last - next for current last
     int res = old_node->data; // save result data
     delete old_node;      // free unused memory
     return res;         // return result
@@ -185,7 +185,7 @@
 
 Дек, содержащий два элемента выглядит следующим образом:
 
-.. image:: {filename}/images/lab10/1.svg
+.. image:: {filename}/images/lab10/2.svg
 
 Задача №3
 ---------
