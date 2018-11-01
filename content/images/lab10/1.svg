@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 579 390" style="enable-background:new 0 0 579 390;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2E3192;}
+	.st1{fill:none;stroke:#000000;stroke-width:5.6693;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'CourierNewPSMT';}
+	.st5{font-size:28.3465px;}
+	.st6{fill:none;stroke:#000000;stroke-width:4.252;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="211" y="23" class="st0" width="190" height="30"/>
+	<rect x="211" y="23" class="st1" width="190" height="60"/>
+	<rect x="211" y="23" class="st2" width="190" height="60"/>
+	<text transform="matrix(1 0 0 1 237.9575 43.2109)"><tspan x="0" y="0" class="st3 st4 st5">my_stack</tspan><tspan x="34" y="34" class="st4 st5">last</tspan></text>
+</g>
+<g>
+	<rect x="55" y="277" class="st0" width="190" height="30"/>
+	<rect x="55" y="277" class="st1" width="190" height="90"/>
+	<rect x="55" y="277" class="st2" width="190" height="90"/>
+	<text transform="matrix(1 0 0 1 115.9785 297.2109)"><tspan x="0" y="0" class="st3 st4 st5">node</tspan><tspan x="0" y="31.2" class="st4 st5">next</tspan><tspan x="0" y="62.4" class="st4 st5">data</tspan></text>
+</g>
+<g>
+	<g>
+		<rect x="55" y="123" class="st0" width="190" height="30"/>
+		<rect x="55" y="123" class="st1" width="190" height="90"/>
+		<rect x="55" y="123" class="st2" width="190" height="90"/>
+		<text transform="matrix(1 0 0 1 115.9785 143.2109)"><tspan x="0" y="0" class="st3 st4 st5">node</tspan><tspan x="0" y="31.2" class="st4 st5">next</tspan><tspan x="0" y="62.4" class="st4 st5">data</tspan></text>
+	</g>
+	<g>
+		<rect x="367" y="123" class="st0" width="190" height="30"/>
+		<rect x="367" y="123" class="st1" width="190" height="90"/>
+		<rect x="367" y="123" class="st2" width="190" height="90"/>
+		<text transform="matrix(1 0 0 1 427.9785 143.2109)"><tspan x="0" y="0" class="st3 st4 st5">node</tspan><tspan x="0" y="31.2" class="st4 st5">next</tspan><tspan x="0" y="62.4" class="st4 st5">data</tspan></text>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st6" d="M364.3,68C418.2,69,465.1,83.5,439,98c-23.1,12.8-286,2-348-7c-72.7-10.6-122.2,38.7-57.7,46.1"/>
+		<g>
+			
+				<ellipse transform="matrix(1.651257e-02 -0.9999 0.9999 1.651257e-02 290.491 431.5128)" cx="364.6" cy="68.1" rx="5.6" ry="5.6"/>
+		</g>
+		<g>
+			<polygon points="24.2,147.4 29.6,136.7 25.6,125.4 51,138 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st6" d="M205.3,168c68.3-1.2,71.4-26,143.9-29.5"/>
+		<g>
+			
+				<ellipse transform="matrix(0.9997 -2.426573e-02 2.426573e-02 0.9997 -4.0128 5.0383)" cx="205.6" cy="167.9" rx="5.6" ry="5.6"/>
+		</g>
+		<g>
+			<polygon points="341.2,149.8 345.6,138.7 340.5,127.8 367,138 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st6" d="M509.3,168.3c42.7,5.3,41,74.1-54.3,78.7c-28.4,1.4-288-27.3-360-10c-46.7,11.2-129,49.4-57.8,54.4"/>
+		<g>
+			
+				<ellipse transform="matrix(7.104094e-02 -0.9975 0.9975 7.104094e-02 305.408 664.728)" cx="509.6" cy="168.4" rx="5.6" ry="5.6"/>
+		</g>
+		<g>
+			<polygon points="28.5,302 33.6,291.2 29.3,280 55,292 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st6" d="M200.3,322c68.6-1.2,75.7-26.1,148.9-29.5"/>
+		<g>
+			
+				<ellipse transform="matrix(0.9997 -2.416891e-02 2.416891e-02 0.9997 -7.7205 4.9429)" cx="200.6" cy="321.9" rx="5.6" ry="5.6"/>
+		</g>
+		<g>
+			<polygon points="341.2,303.8 345.6,292.6 340.6,281.8 367,292 			"/>
+		</g>
+	</g>
+</g>
+<rect x="367" y="277" class="st6" width="190" height="30"/>
+<text transform="matrix(1 0 0 1 427.9785 299.8345)" class="st4 st5">NULL</text>
+</svg>
