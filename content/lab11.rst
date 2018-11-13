@@ -3,7 +3,7 @@
 
 :date: 2018-11-12 22:00
 :summary: Указатели и сортировки
-
+:status: published
  
 
 
