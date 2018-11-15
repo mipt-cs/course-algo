@@ -27,9 +27,9 @@
 
   switch(t) 
   { 
-     case 1: x:=1; break;
-     case 2: y:=1; break; 
-     case 3: z:=1; 
+     case 1: x = 1; break;
+     case 2: y = 1; break; 
+     case 3: z = 1; 
   }
 
 
@@ -1050,7 +1050,7 @@ aii отличен от нуля — иначе мы просто не смож�
    }
    
    int main()
-  
+  {
   double **a, *y, *x;
   int n;
 
