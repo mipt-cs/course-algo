@@ -3,7 +3,7 @@
 
 :date: 2018-11-19 22:00
 :summary: Рекурсия
-:status: draft
+:status: published
  
 
 
@@ -19,5 +19,5 @@
 
 Ссылка на учебный контест__ по рекурсии.
 
-.. __: http://93.175.29.65/cgi-bin/new-register?contest_id=840112
+.. __: http://93.175.29.65/cgi-bin/new-register?contest_id=845512
 
