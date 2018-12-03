@@ -3,7 +3,7 @@
 
 :date: 2018-12-03 22:00
 :summary: Динамическое программирование: контест
-:status: draft
+:status: published
  
 
 
