@@ -19,5 +19,5 @@
 
 Ссылка на контрольную__.
 
-.. __: http://93.175.29.65/cgi-bin/new-register?contest_id=840115
+.. __: http://93.175.29.65/cgi-bin/new-register?contest_id=840011
 
