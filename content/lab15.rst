@@ -3,7 +3,7 @@
 
 :date: 2018-12-10 09:00
 :summary: Семестровая контрольная работа
-:status: draft
+:status: published
  
 
 
