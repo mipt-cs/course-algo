@@ -186,9 +186,9 @@ x >> y	Битовый сдвиг вправо
 
 int.bit_length() - количество бит, необходимых для представления числа в двоичном виде, без учёта знака и лидирующих нулей.
 
-int.to_bytes(length, byteorder, *, signed=False) - возвращает строку байтов, представляющих это число.
+int.to_bytes(length, byteorder, \*, signed=False) - возвращает строку байтов, представляющих это число.
 
-classmethod int.from_bytes(bytes, byteorder, *, signed=False) - возвращает число из данной строки байтов.
+classmethod int.from_bytes(bytes, byteorder, \*, signed=False) - возвращает число из данной строки байтов.
 
 Примеры:
 
