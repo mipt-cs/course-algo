@@ -3,7 +3,7 @@
 
 :date: 2019-02-04 09:00
 :summary: Практика: Черепаха. Введение в основы Питона.
-:status: draft 
+:status: published 
 
 .. default-role:: code
 
