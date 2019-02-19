@@ -461,3 +461,162 @@ Pop, Shift, Delete
 
 
 
+Упражнение №5
++++++++++++++
+
+Напишите к данной программе, играющей в крестики-нолики, набор функций, которые сделают игру искусственного интеллекта безупречной.
+
+Функция проверки, нельзя ли завершить игру победой.
+
+Функции проверки для первого хода - если центральная не занята, то занять её, если занята, то занять случайную угловую.
+
+Функция проверки, не может ли враг на следующем ходе завершить игру победой.
+
+Функция проверки, можно ли создать противнику безвыходную ситуацию
+
+1) если нельзя, то походить просто на одну из выгодных позиций.
+
+2) если и это невозможно, походить на первую попавшуюся клетку.
+
+
+Создание противнику безвыходной ситуации достигается созданием определенной комбинации ваших меток, при которой, как бы враг ни походил, вы всегда можете выиграть партию. Эти комбинации - заполнены 3 угловые точки, причем между 2-мя парами из них должны быть пустые клетки; заполнены 2 угловые и центральная, и соблюдается то же правило.
+
+
+Вот код программы, которую нужно дописать.
+
+
+.. code-block:: python
+    
+    # -*- coding: utf-8 -*-
+	X = "X"
+	O = "O"
+
+	board = list(range(0,9))
+
+	def draw_board(board):
+ 	   print ("-" * 13)
+  	   for i in range(3):
+    	     print ("|", board[0+i*3], "|", board[1+i*3], "|", board[2+i*3], "|")
+             print ("-" * 13)
+
+	def take_input(player_token):
+	    valid = False
+  	    while not valid:
+        	player_answer = input("Куда поставим " + player_token+"? ")
+        	try:
+                    player_answer = int(player_answer)
+        	except:
+                    print ("Некорректный ввод. Вы уверены, что ввели число?")
+            	    continue
+        	if player_answer >= 0 and player_answer <= 8:
+            		if (str(board[player_answer]) not in "XO"):
+                		board[player_answer] = player_token
+                		valid = True
+            		else:
+                		print ("Эта клеточка уже занята")
+        	else:
+            		print ("Некорректный ввод. Введите число от 0 до 8 чтобы походить.")
+
+
+	# Процедура проверки победы какого-либо игрока
+
+	def check_win(board):
+    		win_coord = ((0,1,2),(3,4,5),(6,7,8),(0,3,6),(1,4,7),(2,5,8),(0,4,8),(2,4,6))
+    		for each in win_coord:
+        		if board[each[0]] == board[each[1]] == board[each[2]]:
+            			return board[each[0]]
+    		return False
+
+	def ask_yes_no(question):
+    		respone = None
+    		while respone not in ("y","n"):
+        		respone = input(question).lower()
+    		return respone
+
+	def pieces():
+    		go_first = ask_yes_no("Хочешь оставить за собой первый ход? (y/n): ")
+    		if go_first == "y":
+        		print("Ну что ж, даю тебе фору, играй крестикаи")
+        		human = X
+        		computer = O
+    		else:
+        		print("Твоя удаль тебя погубит... Буду начинать я.")
+        		human = O
+        		computer = X
+    		return computer,human
+
+	def computer_move(player_token):
+    		valid = False
+    		BEST_MOVES=(4,0,2,6,8,1,3,5,7)
+    		print("Я выберу поле номер", end = " ")
+    		for player_answer in BEST_MOVES:
+        		if player_answer >= 0 and player_answer <= 8:
+           			 if (str(board[player_answer]) not in "XO"):
+               		 		board[player_answer] = player_token
+                			print(player_answer)
+                			break
+    
+
+	def next_turn(turn):
+    		if turn==X:
+        		return O
+    		else:
+        		return X
+
+	# Главная функция программы, вызывающая все остальные
+
+	def main(board):
+    		counter = 0
+    		win = False
+    		go_begin = ask_yes_no("Хочешь сыграть с компьютером или человеком (y/n): ")
+    		if go_begin == "y":
+        		print("Ну что ж, попробуй с компьютером")
+        		human = X
+        		computer = O
+        		computer, human = pieces()
+        		draw_board(board)
+        		turn = X
+        		while not check_win(board):
+            			if turn == human:
+                			take_input(human)
+                			counter += 1
+            			else:
+                			computer_move(computer)
+                			counter += 1
+            			draw_board(board)
+            			turn=next_turn(turn)
+            			tmp = check_win(board)
+            			if tmp:
+                			print (tmp, "выиграл!")
+               				win = True
+                			break
+            			if counter == 9:
+                			print ("Ничья!")
+                			break
+        		return 1
+
+    		while not win:
+        		draw_board(board)
+        		if counter % 2 == 0:
+            			take_input("X")
+        		else:
+            			take_input("O")
+        		counter += 1
+        		if counter > 4:
+            			tmp = check_win(board)
+            		if tmp:
+                		print (tmp, "выиграл!")
+                		win = True
+                		break
+        		if counter == 9:
+            			print ("Ничья!")
+            			break
+    			draw_board(board)
+    			return 2
+
+	main(board)
+ 
+
+
+
+
