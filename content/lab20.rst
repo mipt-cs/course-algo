@@ -248,7 +248,7 @@ Z-функция (англ. Z-function) от строки S и позиции x 
 
     def prefix_func(s, n):
         pi = [0] * n
-        for i in range(n - 1):
+        for i in range(n):
             for k in range(1, i + 1):
                 equal = True
                 for j in range(k):
