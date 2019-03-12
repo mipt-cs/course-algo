@@ -3,9 +3,8 @@
 
 :date: 2019-03-12 08:00
 :status: published
-
+:summary: Работа с множествами и словарями. 
 .. default-role:: code
-.. contents:: Содержание
 
 
 Хэширование
