@@ -228,7 +228,7 @@
 
 Найти элементы, принадлежащие множеству `E`:
 
-.. image:: {filename}/images/lab22/ex2_formula.png
+.. image:: images/lab22/ex2_formula.png
 
 ..	E = ((A setminus B) intersection (C setminus D )) union ((D setminus A) intersection (B setminus C ))
 	LibreOffice Math formula
@@ -494,7 +494,7 @@
 
 	too	-	тоже
 
-.. _`task4/en-ru.txt`: /extra/lab22/task4/en-ru.txt
+.. _`task4/en-ru.txt`: extra/lab22/task4/en-ru.txt
 
 Здесь английское и русское слово разделены двумя табуляциями и минусом: `'\t-\t'`.
 
@@ -507,7 +507,7 @@
 Требуется сделать подстрочный перевод с помощью имеющегося словаря и вывести результат в `output.txt`.
 Незнакомые словарю слова нужно оставлять в исходном виде.
 
-.. _`task4/input.txt`: /extra/lab22/task4/input.txt
+.. _`task4/input.txt`: extra/lab22/task4/input.txt
 
 Упражнение №5. Страны и Языки
 -----------------------------
@@ -526,7 +526,7 @@
 | китайский       | Китай Сингапур  |
 +-----------------+-----------------+
 
-.. _`task5/input.txt`: /extra/lab22/task5/input.txt
+.. _`task5/input.txt`: extra/lab22/task5/input.txt
 
 Упражнение №6. Сделать русско-английский словарь
 ------------------------------------------------
@@ -554,7 +554,7 @@
 
 Порядок строк в выходном файле должен быть словарным с *человеческой* точки зрения (так называемый *лексикографический* порядок слов). То есть выходные строки нужно отсортировать.
 
-.. _`task6/en-ru.txt`: /extra/lab22/task6/en-ru.txt
+.. _`task6/en-ru.txt`: extra/lab22/task6/en-ru.txt
 
 Упражнение №7. Синхронизация словарей
 -------------------------------------
@@ -585,8 +585,8 @@ ru-en.txt:
 |    манипулятор мышь	-	mouse
 |    мышь	-	mouse
 
-.. _`task7/en-ru.txt`: /extra/lab22/task7/en-ru.txt
-.. _`task7/ru-en.txt`: /extra/lab22/task7/ru-en.txt
+.. _`task7/en-ru.txt`: extra/lab22/task7/en-ru.txt
+.. _`task7/ru-en.txt`: extra/lab22/task7/ru-en.txt
 
 Упражнение №8. Добродушные соседи
 ---------------------------------
