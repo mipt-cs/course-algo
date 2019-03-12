@@ -1,8 +1,8 @@
 Словари и множества в Python
 ############################
 
-:date: 2019-03-10 09:00
-:status: draft
+:date: 2019-03-12 08:00
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
