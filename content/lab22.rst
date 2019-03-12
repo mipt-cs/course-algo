@@ -228,7 +228,7 @@
 
 Найти элементы, принадлежащие множеству `E`:
 
-.. image:: images/lab22/ex2_formula.png
+.. image:: /algo/images/lab22/ex2_formula.png
 
 ..	E = ((A setminus B) intersection (C setminus D )) union ((D setminus A) intersection (B setminus C ))
 	LibreOffice Math formula
