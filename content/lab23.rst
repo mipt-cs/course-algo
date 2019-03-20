@@ -56,10 +56,10 @@ map
        int_list.append(int(item))
    
    # Преобразование с помощью цикла, с использованием map: 
-   new_list_map = list(map(int, str_list))
+   int_list_map = list(map(int, str_list))
    
-   print (new_list)
-   print (new_list_map)
+   print (int_list)
+   print (int_list_map)
    
    
    [1, 2, 3, 4, 5, 6, 7]
