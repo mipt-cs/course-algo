@@ -3,7 +3,7 @@
 
 :date: 2019-03-26 09:00
 :summary: полусеместровая контрольная
-:status: draft
+:status: published
  
 
 
