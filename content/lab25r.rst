@@ -1,11 +1,12 @@
 Представление графов.
 #####################
 
-:date: 2019-04-01 09:00
+:date: 2019-04-02
 :summary: Представление графов.
-:status: published 
+:status: published
 
 .. default-role:: code
+
 .. contents:: Содержание
 
 
