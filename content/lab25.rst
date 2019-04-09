@@ -807,10 +807,10 @@ A[i][j] = 0 (Иначе)
     		Path.append(curr)
     		if len(Path) == n:
         		if A[Path[0]][Path[-1]] == 1:
-            		return True 
-        	else: 
-            		Path.pop() 
-            		return False 
+            			return True 
+        		else: 
+            			Path.pop() 
+            			return False 
     		Visited[curr] = True
 
     		for next in range(n): 
