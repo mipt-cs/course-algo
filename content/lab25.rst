@@ -72,7 +72,7 @@ NetworkX содержит четыре класса графов:
 Рёбра представляют собой связь двух вершин и чаще вершины имеют привязанные к ним данные — свойства рёбер.
 Для указания веса ребра, используйте свойство **weight**.
 
-.. _Attributes: http://networkx.readthedocs.io/en/stable/reference/classes.graph.html
+.. _Attributes: https://networkx.github.io/documentation/latest/reference/functions.html#attributes 
 
 Создание графа
 --------------
