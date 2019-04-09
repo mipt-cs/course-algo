@@ -757,7 +757,7 @@ A[i][j] = 0 (Иначе)
             			if Color[v] == 2: return False   #Если вершина черная, то заканчиваем ее обработку.
             			Color[v] = 1                     #Красим вершину в серый цвет.
 	#Обрабатываем список смежных с ней вершин.
-            			for i in range(len(Edges[v])-1):
+            			for i in range(len(Edges[v])):
                 			if dfs(Edges[v][i]): return True
             			Stack.append(v)                  #Кладем вершину в стек.
             			Color[v] = 2                     #Красим вершину в черный цвет.
@@ -767,9 +767,9 @@ A[i][j] = 0 (Иначе)
 	#Заканчиваем работу алгоритма, если обнаружен цикл.
         		for i in Edges.keys():
             			Cycle = dfs(i)
-            		if Cycle: 
-                		print "!!!имеется цикл!!!"
-                		exit()
+            			if Cycle: 
+                			print "!!!имеется цикл!!!"
+                			exit()
                 
 	#Заносим в массив новые номера вершин.    
         		Stack.reverse()
