@@ -634,7 +634,7 @@ A[i][j] = 0 (Иначе)
     		for u in V[start]:
         		if Color[u] == 0:
             			DFS(v)
-			 elif Color[start] == 1:
+			elif Color[u] == 1:
 			 	CycleFound = True
 		Color[start] = 2
 
