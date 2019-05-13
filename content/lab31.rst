@@ -3,11 +3,10 @@
 
 :date: 2019-05-10 09:00
 :summary: Вопросы к устному зачёту.
-:status: draft
-:published: no
+:status: published
+:published: yes
 
 .. default-role:: code
-.. contents:: Содержание
 
 
 Вопросы для устного ответа
