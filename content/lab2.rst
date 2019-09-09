@@ -2,6 +2,8 @@
 ##############################
 
 :date: 2019-09-09 09:00
+:summary: Работа в командной строке Linux.
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
