@@ -18,4 +18,19 @@
 
 .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093104
 
+`Четверг 13:55`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093107
+
+`Четверг 15:30`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093108
+
+`Пятница 12:20`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093109
+
+`Пятница 15:30`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=093110
 
