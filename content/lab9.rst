@@ -3,7 +3,7 @@
 
 :date: 2019-10-28 09:00
 :summary: Рекурсивные алгоритмы
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
