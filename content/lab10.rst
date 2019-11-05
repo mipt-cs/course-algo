@@ -3,7 +3,7 @@
 
 :date: 2019-10-28 09:00
 :summary: Алгоритмы быстрых сортировок
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
@@ -72,4 +72,4 @@
 ==========
 Участвовать_ в контесте.
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=094109
+.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109
