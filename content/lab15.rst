@@ -12,10 +12,6 @@
 
 .. Расписание появится.
 
-`13 декабря, пятница 12:20`__.
+`14 декабря, суббота 17:05`__.
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93119
-
-`13 декабря, пятница 15:30`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93120
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93121
