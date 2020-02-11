@@ -1,9 +1,9 @@
 Работа с ошибками в Python
 ##################################
 
-:date: 2020-02-10 09:00
+:date: 2020-02-09 09:00
 :summary: Рассматриваются некоторые типы ошибок и работа с Traceback. Ссылка на контест 1.
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
@@ -184,7 +184,7 @@ Traceback показывает *последовательность/стэк в
 
 Наиболее частая ошибка, которая возникает в программах на Python -- **SyntaxError**: когда какое-то утверждение записано не по правилам языка, например:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3
     >>> print "hello"
@@ -195,7 +195,7 @@ Traceback показывает *последовательность/стэк в
 
 Тот же тип ошибки возникнет, если забыть поставить двоеточие в цикле:
 
-.. code-block:: console
+.. code-block:: pycon
 
     $ python3
     >>> for i in range(5)
@@ -206,7 +206,7 @@ Traceback показывает *последовательность/стэк в
 
 При неправильном использовании пробелов и табуляций в начале строки возникает **IndentationError**:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3
     >>> for i in range(5):
@@ -218,7 +218,7 @@ Traceback показывает *последовательность/стэк в
 
 А теперь посмотрим, что будет, если в первой строке цикла воспользоваться пробелами, а во второй - табуляцией:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3
     >>> for i in range(5):
@@ -232,7 +232,7 @@ Traceback показывает *последовательность/стэк в
     
 **NameError** возникает при обращении к несуществующей переменной:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3
     >>> words = "Hello"
@@ -255,7 +255,7 @@ Traceback показывает *последовательность/стэк в
 
 и запустим её:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3 sample.py
     5  
@@ -275,7 +275,7 @@ Traceback показывает *последовательность/стэк в
     
 запустим на неподходящих данных:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3 sample.py
     xyz
@@ -286,10 +286,11 @@ Traceback показывает *последовательность/стэк в
     
 
 Возникнет **ValueError**.
+Эту ошибку ещё можно воспринимать как использование значения вне области допустимых значений (ОДЗ).
 
 Теперь запустим программу на числовых данных:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3 sample.py
     1
@@ -301,7 +302,7 @@ Traceback показывает *последовательность/стэк в
     
 При работе с массивами нередко возникает ошибка **IndexError**. Она возникает при выходе за пределы массива:
 
-.. code-block:: console
+.. code-block:: pycon
     
     $ python3
     >>> L1 = [1, 2, 3]
@@ -322,7 +323,7 @@ Traceback показывает *последовательность/стэк в
 
 Через некоторое время после запуска возникнет **RecursionError**:
 
-.. code-block:: console
+.. code-block:: pycon
     
     Traceback (most recent call last):
       File "endless.py", line 4, in <module>
