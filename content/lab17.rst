@@ -179,6 +179,167 @@ Traceback показывает *последовательность/стэк в
 Некоторые ошибки с примерами кода
 =================================
 
+Ошибки в синтаксисе
+-------------------
+
+Наиболее частая ошибка, которая возникает в программах на Python -- **SyntaxError**: когда какое-то утверждение записано не по правилам языка, например:
+
+.. code-block:: console
+    
+    $ python3
+    >>> print "hello"
+      File "<stdin>", line 1
+        print "hello"
+                    ^
+    SyntaxError: Missing parentheses in call to 'print'. Did you mean print("hello")?
+
+Тот же тип ошибки возникнет, если забыть поставить двоеточие в цикле:
+
+.. code-block:: console
+
+    $ python3
+    >>> for i in range(5)
+      File "<stdin>", line 1
+        for i in range(5)
+                    ^
+    SyntaxError: invalid syntax
+
+При неправильном использовании пробелов и табуляций в начале строки возникает **IndentationError**:
+
+.. code-block:: console
+    
+    $ python3
+    >>> for i in range(5):
+        print(i)
+      File "<stdin>", line 2
+        print(i)
+            ^
+    IndentationError: expected an indented block
+
+А теперь посмотрим, что будет, если в первой строке цикла воспользоваться пробелами, а во второй - табуляцией:
+
+.. code-block:: console
+    
+    $ python3
+    >>> for i in range(5):
+            print(i) # здесь пробелы
+            print(i**2) # здесь табуляция
+        File "<stdin>", line 3
+          print(i**2)
+                    ^
+    TabError: inconsistent use of tabs and spaces in indentation
+    
+    
+**NameError** возникает при обращении к несуществующей переменной:
+
+.. code-block:: console
+    
+    $ python3
+    >>> words = "Hello"
+    >>> word
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+    NameError: name 'word' is not defined
+
+Ошибки в логике
+---------------
+
+Напишем простую программу на деление с остатком и сохраним как sample.py:
+
+.. code-block:: python
+    
+    n = input()
+    m = input()
+    print(n % m)
+    
+
+и запустим её:
+
+.. code-block:: console
+    
+    $ python3 sample.py
+    5  
+    3
+    Traceback (most recent call last):
+      File "sample.py", line 3, in <module>
+        print(n % m)
+    TypeError: not all arguments converted during string formatting
+    
+Возникла ошибка **TypeError**, которая сообщает о неподходящем типе данных. Исправим программу:
+
+.. code-block:: python
+    
+    n = int(input())
+    m = int(input())
+    print(n % m)
+    
+запустим на неподходящих данных:
+
+.. code-block:: console
+    
+    $ python3 sample.py
+    xyz
+    Traceback (most recent call last):
+      File "sample.py", line 1, in <module>
+        n = int(input())
+    ValueError: invalid literal for int() with base 10: 'xyz'
+    
+
+Возникнет **ValueError**.
+
+Теперь запустим программу на числовых данных:
+
+.. code-block:: console
+    
+    $ python3 sample.py
+    1
+    0    
+    Traceback (most recent call last):
+      File "sample.py", line 3, in <module>
+        print(n % m)
+    ZeroDivisionError: integer division or modulo by zero
+    
+При работе с массивами нередко возникает ошибка **IndexError**. Она возникает при выходе за пределы массива:
+
+.. code-block:: console
+    
+    $ python3
+    >>> L1 = [1, 2, 3]
+    >>> L1[3]
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+    IndexError: list index out of range
+    
+Что будет, если вызвать бесконечную рекурсию? Опишем её в программе endless.py
+
+.. code-block:: python
+    
+    def noend():
+        print("Hello!")
+        noend()
+    noend()
+    
+
+Через некоторое время после запуска возникнет **RecursionError**:
+
+.. code-block:: console
+    
+    Traceback (most recent call last):
+      File "endless.py", line 4, in <module>
+        noend()
+      File "endless.py", line 3, in noend
+        noend()
+      File "endless.py", line 3, in noend
+        noend()
+      File "endless.py", line 3, in noend
+        noend()
+      [Previous line repeated 993 more times]
+      File "endless.py", line 2, in noend
+        print("Hello!")
+    RecursionError: maximum recursion depth exceeded while calling a Python object
+    
+    
+
 Контест №1
 ==========
 Участвовать_ в контесте.
