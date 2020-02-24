@@ -3,7 +3,7 @@
 
 :date: 2020-02-24 09:00
 :summary: Множества, словари и задачи
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
