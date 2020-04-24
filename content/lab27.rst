@@ -2,7 +2,7 @@
 ###########################
 
 :date: 2020-04-20 09:00
-:summary: Контест, лекция
+:summary: Лекция
 :status: published
 
 .. default-role:: code
