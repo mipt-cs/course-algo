@@ -16,7 +16,10 @@
 Контрольная проводится 15 мая (пятница).
 Время проведения контрольной: 12:20 - 13:45.
 
-Списки контестов по факультетов ниже.
+Списки контестов по факультетам ниже.
+
+1. Попробуйте сначала зайти из-под своего логина-пароля (логин, пароль, "войти"). Затем "Участвовать".
+2. Если не получится, то зарегистрируйтесь заново.
 
 ФМХФ (1 курс)
 -------------
@@ -41,19 +44,19 @@
 - `Б06-805`_
 - `Б06-806`_
 
-.. _`Б04-901`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94127
-.. _`Б04-902`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94125
-.. _`Б04-903`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94124
+.. _`Б04-901`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94127
+.. _`Б04-902`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94125
+.. _`Б04-903`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94124
 
-.. _`Б03-907`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94124
-.. _`Б03-908`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94125
+.. _`Б03-907`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94124
+.. _`Б03-908`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94125
 
-.. _`Б06-801`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94124
-.. _`Б06-802`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94125
-.. _`Б06-803`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94126
-.. _`Б06-804`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94127
-.. _`Б06-805`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94128
-.. _`Б06-806`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94129
+.. _`Б06-801`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94124
+.. _`Б06-802`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94125
+.. _`Б06-803`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94126
+.. _`Б06-804`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94127
+.. _`Б06-805`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94128
+.. _`Б06-806`: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=94129
 
 Ознакомительная лекция
 ======================
