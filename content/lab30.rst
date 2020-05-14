@@ -41,19 +41,19 @@
 - `Б06-805`_
 - `Б06-806`_
 
-.. _`Б04-901`: https://youtu.be/JUibM6KSeIw
-.. _`Б04-902`: https://youtu.be/JUibM6KSeIw
-.. _`Б04-903`: https://youtu.be/JUibM6KSeIw
+.. _`Б04-901`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94127
+.. _`Б04-902`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94125
+.. _`Б04-903`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94124
 
-.. _`Б03-907`: https://youtu.be/JUibM6KSeIw
-.. _`Б03-908`: https://youtu.be/JUibM6KSeIw
+.. _`Б03-907`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94124
+.. _`Б03-908`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94125
 
-.. _`Б06-801`: https://youtu.be/JUibM6KSeIw
-.. _`Б06-802`: https://youtu.be/JUibM6KSeIw
-.. _`Б06-803`: https://youtu.be/JUibM6KSeIw
-.. _`Б06-804`: https://youtu.be/JUibM6KSeIw
-.. _`Б06-805`: https://youtu.be/JUibM6KSeIw
-.. _`Б06-806`: https://youtu.be/JUibM6KSeIw
+.. _`Б06-801`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94124
+.. _`Б06-802`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94125
+.. _`Б06-803`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94126
+.. _`Б06-804`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94127
+.. _`Б06-805`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94128
+.. _`Б06-806`: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94129
 
 Ознакомительная лекция
 ======================
