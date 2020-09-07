@@ -3,7 +3,7 @@
 
 :date: 2019-12-01 09:00
 :summary: Контест
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

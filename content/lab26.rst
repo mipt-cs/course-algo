@@ -3,7 +3,7 @@
 
 :date: 2020-04-13 09:00
 :summary: Контест, лекция
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

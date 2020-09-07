@@ -3,7 +3,7 @@
 
 :date: 2019-09-09 09:00
 :summary: Суммирование последовательности, поиск среднего, максимального и т.д.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

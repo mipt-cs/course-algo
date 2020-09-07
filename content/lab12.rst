@@ -3,7 +3,7 @@
 
 :date: 2019-11-17 09:00
 :summary: Контест по одномерному динамическому программированию
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

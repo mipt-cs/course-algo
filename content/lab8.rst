@@ -3,7 +3,7 @@
 
 :date: 2019-10-14 09:00
 :summary: Алгоритмы сортировок
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

@@ -3,7 +3,7 @@
 
 :date: 2020-03-17 09:00
 :summary: Файлы, time, numpy, matplotlib, задачи
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

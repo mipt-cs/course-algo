@@ -3,7 +3,7 @@
 
 :date: 2020-04-27 09:00
 :summary: контест
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

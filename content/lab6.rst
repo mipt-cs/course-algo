@@ -3,7 +3,7 @@
 
 :date: 2019-10-07 09:00
 :summary: Контест на массивы.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

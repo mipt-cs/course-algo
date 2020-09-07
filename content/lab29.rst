@@ -3,7 +3,7 @@
 
 :date: 2020-05-04 09:00
 :summary: Лекция
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

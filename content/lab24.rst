@@ -3,7 +3,7 @@
 
 :date: 2020-03-30 09:00
 :summary: Контест по обходу графа в глубину
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

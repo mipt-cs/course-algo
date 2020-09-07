@@ -3,7 +3,7 @@
 
 :date: 2020-03-24 09:00
 :summary: Контрольная работа по пройденным темам
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

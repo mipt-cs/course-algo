@@ -3,7 +3,7 @@
 
 :date: 2019-10-14 09:00
 :summary: Контрольная работа по пройденным темам
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

@@ -3,7 +3,7 @@
 
 :date: 2020-03-03 09:00
 :summary: Ссылка на контест
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

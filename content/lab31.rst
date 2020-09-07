@@ -3,7 +3,7 @@
 
 :date: 2020-05-18 09:00
 :summary: Вопросы билетов устного зачёта, особенности процедуры сдачи.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

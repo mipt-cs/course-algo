@@ -3,7 +3,7 @@
 
 :date: 2019-09-30 09:00
 :summary: Алгоритмы полного перебора. Тест простоты. Факторизация. Перебор делителей.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

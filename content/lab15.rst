@@ -3,7 +3,7 @@
 
 :date: 2019-12-09 09:00
 :summary: Семестровая контрольная работа
-:status: published
+:status: draft
 
 .. default-role:: code
 

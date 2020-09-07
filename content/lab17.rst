@@ -3,7 +3,7 @@
 
 :date: 2020-02-09 09:00
 :summary: Рассматриваются некоторые типы ошибок и работа с Traceback. Ссылка на контест 1.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

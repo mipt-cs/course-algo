@@ -3,7 +3,7 @@
 
 :date: 2019-11-25 09:00
 :summary: Строки в языке Python. Алгоритмы над строками
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание
