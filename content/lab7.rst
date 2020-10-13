@@ -13,5 +13,5 @@
 
 `Вторник 17:05`__.
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=203101
+.. __: 
 
