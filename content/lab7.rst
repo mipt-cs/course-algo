@@ -7,7 +7,7 @@
 
 .. default-role:: code
 .. contents:: Содержание
-:status: published
+
 
 ==========
 
