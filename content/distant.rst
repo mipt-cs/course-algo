@@ -32,7 +32,7 @@
 +---------+-----------------+-------------------+
 | Б06-903 | `Jitsi`__       | Сб. 12:20 — 15:20 |
 +---------+-----------------+-------------------+
-| Б06-904 | Нет данных      | Сб. 12:20 — 15:20 |
+| Б06-904 | `Jitsi`__       | Сб. 12:20 — 15:20 |
 +---------+-----------------+-------------------+
 | Б06-905 | `Google Meet`__ | Сб. 15:30 — 18:30 |
 +---------+-----------------+-------------------+
@@ -48,7 +48,9 @@
 __ https://meet.google.com/mwt-eaug-ror
 __ https://us05web.zoom.us/j/6360887274?pwd=cjNGaG5xNGRjbGVEaTJXWk5tbWhJUT09
 __ https://meet.jit.si/DBMP_Python3_Lyapina
+__ https://meet.jit.si/gertsev_oop_b06904
 __ https://meet.google.com/rnr-zzyb-vti
 __ https://meet.jit.si/gertsev_oop_b06906
+
 __ https://meet.google.com/qyb-sofd-nzz
 
