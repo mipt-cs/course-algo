@@ -32,7 +32,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
 
 Последняя колонка — рекомендуемая оценка на зачёте по текущим результатам (0.35⋅КР1 + 0.45⋅КР2 + 0.2⋅Контесты).
 
-Время последнего обновления — Tue Nov 24 13:52:16 2020
+Время последнего обновления — Sun Nov 29 02:22:16 2020
 
 
 Б06-901
@@ -41,17 +41,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -59,7 +59,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
 
 
    * - Дубодел Е
-     - 10
      - 10
      - 10
      - 8
@@ -70,6 +69,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - 0.0
@@ -80,18 +80,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 8
      - 10
      - 10
+     - 9
      - 0
      - 0
-     - 0
+     - 10
      - 8
      - 0
-     - 4.1
+     - 4.3
 
    * - Клюкин М.А
-     - 10
      - 10
      - 10
      - 10
@@ -102,6 +101,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.7
@@ -112,18 +112,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 8
      - 10
+     - 1
      - 0
      - 0
-     - 0
+     - 10
      - 9
      - 0
      - 4.6
 
    * - Константинова А
-     - 10
      - 10
      - 10
      - 10
@@ -134,12 +133,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - 0.0
 
    * - Кусаинова Т
-     - 10
      - 9
      - 1
      - 10
@@ -150,6 +149,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 0
      - 0
      - 0.6
@@ -163,12 +163,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 3
-     - 0
+     - 5
      - 0
      - 10
+     - 10
      - 0
-     - 5.1
+     - 5.3
 
    * - Масенков О.В
      - 0
@@ -186,40 +186,39 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0.0
 
-   * - Пилипенко Е
-     - 10
+   * - Пилипенко Е.А
      - 10
      - 10
      - 10
      - 7
      - 7
+     - 3
+     - 8
+     - 6
      - 2
-     - 2
      - 0
+     - 10
+     - 10
      - 0
-     - 0
-     - -1
-     - -1
-     - 0.2
+     - 4.9
 
    * - Соловьёв М
+     - -1
+     - -1
+     - -1
+     - -1
+     - -1
      - 10
-     - 10
-     - 10
-     - 10
-     - 6
-     - 1
-     - 0
-     - 0
-     - 0
+     - -1
      - 0
      - 0
      - -1
      - -1
-     - 0.0
+     - -1
+     - -1
+     - -0.8
 
    * - Степовой К.С
-     - 10
      - 10
      - 9
      - 10
@@ -231,24 +230,25 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 10
+     - 10
      - 0
      - 4.7
 
-   * - Томилова В
-     - 10
+   * - Томилова В.А
      - 10
      - 10
      - 10
      - 8
      - 8
-     - 4
+     - 6
      - 10
      - 0
      - 0
      - 0
-     - -1
-     - -1
-     - 0.4
+     - 10
+     - 10
+     - 0
+     - 4.9
 
    * - Томилова В.Ф
      - 10
@@ -256,12 +256,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 2
      - 10
      - 2
+     - 2
      - 0
-     - 0
+     - 10
      - 10
      - 0
      - 4.9
@@ -272,12 +272,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 8
      - 10
+     - 1
      - 0
      - 0
-     - 0
+     - 10
      - -1
      - -1
      - 0.6
@@ -288,17 +288,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -309,14 +309,14 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 3
+     - 4
      - 0
      - 0
      - 0
      - 0
      - 0
-     - 0
+     - 10
      - 5
      - 0
      - 2.6
@@ -328,49 +328,48 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 6
      - 8
+     - 10
      - 1
-     - 0
+     - 10
      - 10
      - 0
-     - 5.1
+     - 5.3
 
    * - Гришина Е.В
-     - 10
      - 9
+     - 10
+     - 10
+     - 8
+     - 10
+     - 8
+     - 8
+     - 8
+     - 0
+     - 0
+     - 10
+     - 7
+     - 0
+     - 3.8
+
+   * - Забарина С
+     - 10
+     - 10
+     - 10
+     - 8
+     - 8
+     - 8
+     - 10
      - 5
-     - 8
-     - 4
-     - 8
-     - 6
-     - 8
+     - 10
      - 0
-     - 0
-     - 0
+     - 10
      - -1
      - -1
-     - 0.2
+     - 0.8
 
    * - Забарина С
-     - 10
-     - 10
-     - 10
-     - 10
-     - 8
-     - 8
-     - 8
-     - 10
-     - 1
-     - 0
-     - 0
-     - -1
-     - -1
-     - 0.6
-
-   * - Забарина С
-     - 10
      - 9
      - 0
      - 0
@@ -381,6 +380,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - -0.4
@@ -389,17 +389,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 9
      - 9
      - 10
      - 10
      - 10
      - 10
-     - 0
+     - 10
+     - 10
      - 10
      - 0
-     - 5.3
+     - 5.5
 
    * - Логвиненко Е.А
      - 10
@@ -407,18 +407,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 7
+     - 1
+     - 1
+     - 0
+     - 1
      - 10
-     - 4
-     - 1
-     - 1
-     - 0
-     - 0
      - 10
      - 0
      - 4.7
 
-   * - Наумов В
-     - 10
+   * - Наумов В.Д
      - 10
      - 10
      - 10
@@ -429,12 +428,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
-     - -1
-     - -1
-     - 0.0
+     - 10
+     - 8
+     - 0
+     - 3.8
 
    * - Потемкина А.А
-     - 10
      - 10
      - 10
      - 10
@@ -445,6 +444,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 7
      - 0
      - 3.3
@@ -454,19 +454,18 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - -1
      - -1
      - 0.2
 
    * - Соболева Е
-     - 10
      - 9
      - 10
      - 8
@@ -477,6 +476,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - 0.2
@@ -484,21 +484,20 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    * - Фуртак Е.Д
      - 10
      - 10
-     - 9
+     - 10
      - 6
+     - 3
      - 4
-     - 2
-     - 4
      - 0
      - 0
      - 0
      - 0
+     - 10
      - 6
      - 0
-     - 2.9
+     - 3.1
 
    * - Чернов Н.О
-     - 10
      - 10
      - 10
      - 10
@@ -509,6 +508,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.5
@@ -519,17 +519,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -538,7 +538,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
 
    * - Албу С.Д
      - 10
-     - 9
      - 10
      - 10
      - 6
@@ -548,6 +547,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 7
      - 0
      - 3.8
@@ -556,14 +556,14 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - 8
      - 0
      - 3.8
@@ -572,7 +572,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 3
      - 0
      - 0
@@ -580,44 +579,44 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.3
 
-   * - Гордийчук М
-     - 10
+   * - Гордийчук М.А
      - 10
      - 8
      - 10
-     - 3
+     - 4
      - 0
      - 0
      - 0
      - 0
      - 0
      - 0
-     - -1
-     - -1
-     - 0.0
+     - 10
+     - 8
+     - 0
+     - 3.7
 
    * - Григорьев В
-     - 10
      - 10
      - 8
      - 10
      - 6
      - 7
-     - 1
+     - 8
      - 0
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - 0.2
 
-   * - Гуменная Я
-     - 10
+   * - Гуменная Я.Д
      - 10
      - 10
      - 10
@@ -628,12 +627,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
-     - -1
-     - -1
-     - 0.6
+     - 10
+     - 9
+     - 0
+     - 4.4
 
    * - Железов П
-     - 10
      - 10
      - 10
      - 10
@@ -644,6 +643,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - 0.0
@@ -652,7 +652,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 7
      - 10
      - 5
@@ -660,6 +659,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.6
@@ -680,7 +680,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 2.9
 
-   * - Набережная Е
+   * - Набережная Е.Р
      - 10
      - 10
      - 10
@@ -688,16 +688,15 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 8
      - 0
      - 0
      - 0
-     - -1
-     - -1
-     - 0.6
+     - 10
+     - 9
+     - 0
+     - 4.4
 
    * - Обухова А.А
-     - 10
      - 10
      - 10
      - 10
@@ -708,6 +707,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 4.4
@@ -720,16 +720,15 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 10
+     - 0
+     - 0
+     - 10
      - 7
      - 0
-     - 0
-     - 0
-     - 7
-     - 0
-     - 3.9
+     - 4.1
 
    * - Рыбкина Е
-     - 10
      - 10
      - 10
      - 2
@@ -740,12 +739,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - -0.2
 
    * - Теленкевич П.Р
-     - 10
      - 10
      - 10
      - 10
@@ -756,12 +755,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 7
      - 0
      - 3.3
 
    * - Федоров Д.А
-     - 10
      - 10
      - 4
      - 1
@@ -772,41 +771,42 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 3
      - 0
      - 1.7
 
-   * - Хомутов А
+   * - Хомутов А.А
      - 10
      - 10
      - 10
      - 10
      - 10
-     - 10
+     - 8
+     - 8
+     - 8
      - 4
-     - 8
      - 5
-     - 2
-     - 0
-     - -1
-     - -1
-     - 0.6
-
-   * - Шамарина Е
      - 10
+     - 10
+     - 0
+     - 5.1
+
+   * - Шамарина Е.В
      - 10
      - 10
      - 10
      - 10
      - 10
      - 8
+     - 10
      - 10
      - 10
      - 7
+     - 10
+     - 10
      - 0
-     - -1
-     - -1
-     - 1.0
+     - 5.5
 
 Б06-904
 ---------------------------------
@@ -814,17 +814,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -835,7 +835,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 6
      - 5
      - 4
@@ -843,6 +842,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 5
      - 5
      - 0
+     - 10
      - 5
      - 0
      - 3.0
@@ -851,17 +851,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 8
      - 9
      - 1
      - 6
      - 4
      - 0
-     - 0
+     - 8
+     - 10
      - 10
      - 0
-     - 4.7
+     - 4.9
 
    * - Карамов Б.И
      - 10
@@ -870,49 +870,80 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 9
-     - 8
-     - 0
+     - 10
+     - 5
      - 0
      - 10
+     - 10
      - 0
-     - 5.1
+     - 5.3
 
    * - Киселёва Я.С
      - 10
      - 10
      - 10
+     - 7
+     - 8
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
      - 5
      - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
+     - 2.9
+
+   * - Кононова Д.В
+     - 10
+     - 10
+     - 10
+     - 10
      - 5
+     - 6
+     - 6
      - 0
-     - 2.7
+     - 0
+     - 0
+     - 10
+     - 2
+     - 0
+     - 1.9
 
    * - Крамкова В
-     - 10
+     - -1
+     - -1
+     - -1
+     - -1
+     - -1
+     - 5
+     - -1
+     - 6
+     - 1
+     - -1
+     - -1
+     - -1
+     - -1
+     - -0.8
+
+   * - Крамкова В.К
      - 10
      - 8
      - 6
      - 4
      - 8
-     - 5
-     - 0
-     - 1
-     - 0
-     - 0
+     - -1
+     - 3
      - -1
      - -1
-     - 0.2
+     - 0
+     - 10
+     - 7
+     - 0
+     - 3.3
 
    * - Пашутин А.Р
-     - 10
      - 10
      - 10
      - 10
@@ -920,15 +951,15 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 7
      - 2
      - 7
+     - 1
      - 0
      - 0
-     - 0
+     - 10
      - 7
      - 0
      - 3.5
 
    * - Полукеев С.П
-     - 10
      - 8
      - 8
      - 8
@@ -939,13 +970,28 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 3.6
 
-   * - Рогозин К.О
+   * - Пугачева П.А
+     - 10
+     - 10
+     - 10
+     - 8
+     - 10
+     - 9
+     - 1
+     - 6
+     - 0
+     - 10
+     - 10
      - 10
      - 0
+     - 5.1
+
+   * - Рогозин К.О
      - 0
      - 0
      - 0
@@ -955,28 +1001,29 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 0
+     - 10
      - 8
      - 0
      - 2.9
 
    * - Торопыгина М.И
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 1
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - 0
      - 0
      - 0.0
 
    * - Шапаренко Е.О
-     - 10
      - 7
      - 0
      - 0
@@ -987,6 +1034,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 3.1
@@ -997,17 +1045,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -1015,7 +1063,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
 
 
    * - Балясникова К.С
-     - 8
      - 10
      - 0
      - 8
@@ -1026,28 +1073,28 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 8
      - 7
      - 0
      - 2.7
 
    * - Гарькина И
      - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - -1
      - -1
      - -0.4
 
    * - Гукин Е
-     - 8
      - 10
      - 4
      - 6
@@ -1058,6 +1105,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 8
      - -1
      - -1
      - -0.2
@@ -1069,19 +1117,18 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 2
      - 0
-     - 7
-     - 0
+     - 10
+     - 10
+     - 10
      - -1
      - -1
-     - 0.6
+     - 0.8
 
    * - Иванников А.Д
      - 10
      - 10
-     - 10
      - 8
      - 8
      - 7
@@ -1090,12 +1137,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 4.0
 
    * - Краснов А.Н
-     - 10
      - 10
      - 10
      - 10
@@ -1105,13 +1152,13 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 1
      - 9
      - 10
-     - 0
+     - 7
+     - 10
      - 8
      - 0
-     - 4.3
+     - 4.5
 
    * - Крючкова А.К
-     - 10
      - 7
      - 10
      - 3
@@ -1122,6 +1169,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.1
@@ -1132,28 +1180,28 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 8
      - 8
      - 7
      - 10
      - 0
+     - 10
      - -1
      - -1
      - 0.8
 
    * - Кулиева М.А
      - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - 10
      - 0
      - 3.9
@@ -1162,20 +1210,19 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 9
      - 8
      - 9
      - 8
      - 9
      - 10
-     - 0
+     - 3
+     - 10
      - 4
      - 0
-     - 3.0
+     - 3.2
 
    * - Самохвалов Е.А
-     - 10
      - 10
      - 7
      - 10
@@ -1186,6 +1233,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 1
      - 0
      - 0
+     - 10
      - 9
      - 0
      - 3.9
@@ -1194,20 +1242,35 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 3
+     - 8
+     - 4
      - 0
      - 0
      - 0
      - 0
-     - 0
-     - 0
+     - 10
      - -1
      - -1
-     - 0.0
+     - 0.2
+
+   * - Турубанова С.Д
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 10
+     - 0
+     - 3.5
 
    * - Чернышева М
-     - 10
      - 10
      - 10
      - 10
@@ -1217,7 +1280,8 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 7
      - 1
      - 10
-     - 0
+     - 7
+     - 10
      - -1
      - -1
      - 0.8
@@ -1228,17 +1292,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -1246,23 +1310,22 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
 
 
    * - Smirnova A
-     - 10
      - 9
      - 8
      - 6
      - 3
      - 9
+     - 8
      - 0
      - 0
      - 0
      - 0
-     - 0
+     - 10
      - -1
      - -1
-     - 0.0
+     - 0.2
 
    * - Ачкасов К.С
-     - 10
      - 10
      - 10
      - 10
@@ -1273,12 +1336,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 4.2
 
-   * - Барыкин А
-     - 10
+   * - Барыкин А.Д
      - 9
      - 4
      - 10
@@ -1289,9 +1352,10 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
-     - -1
-     - -1
-     - -0.2
+     - 10
+     - 10
+     - 0
+     - 4.1
 
    * - Бекбаева И.В
      - 10
@@ -1303,11 +1367,11 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 3
-     - 0
+     - 7
+     - 10
      - 10
      - 0
-     - 5.1
+     - 5.5
 
    * - Бекбаева И.В
      - 0
@@ -1325,8 +1389,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 3.5
 
-   * - Кауров Р
-     - 10
+   * - Кауров Р.О
      - 10
      - 6
      - 10
@@ -1334,63 +1397,95 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 7
      - 7
+     - 2
+     - 0
+     - 0
+     - 10
+     - 10
+     - 0
+     - 4.5
+
+   * - Кларос Р.Р.К
+     - 10
+     - 10
+     - 10
+     - 9
+     - 10
+     - 10
      - 0
      - 0
      - 0
+     - 0
+     - 10
      - -1
      - -1
-     - 0.2
+     - 0.4
 
    * - Климов К
      - 10
      - 10
      - 10
      - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - -1
      - -1
      - 0.2
 
    * - Климов К
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 1
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - -1
      - -1
      - -0.8
 
    * - Кропивницкая Н
+     - -1
+     - -1
+     - -1
+     - -1
+     - -1
      - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
+     - -1
      - 0
      - 0
      - -1
      - -1
-     - -0.8
+     - -1
+     - -1
+     - -1.0
+
+   * - Кропивницкая Н.В
+     - 10
+     - 10
+     - 10
+     - 1
+     - 9
+     - 5
+     - 0
+     - 0
+     - 0
+     - 0
+     - 10
+     - 10
+     - 0
+     - 4.5
 
    * - Лапина А
-     - 10
      - 6
      - 7
      - 4
@@ -1401,6 +1496,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - -0.4
@@ -1409,23 +1505,22 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 6
      - 10
-     - 5
-     - 8
+     - 10
+     - 10
      - 9
      - 7
-     - 0
+     - 7
+     - 10
      - 10
      - 0
-     - 5.1
+     - 5.3
 
    * - Попова В.А
      - 10
      - 10
      - 10
-     - 10
      - 9
      - 0
      - 0
@@ -1433,6 +1528,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.3
@@ -1441,7 +1537,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 5
      - 0
      - 0
@@ -1449,12 +1544,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 3.6
 
    * - Тин П.А
-     - 10
      - 10
      - 10
      - 10
@@ -1465,6 +1560,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 7
      - 0
      - 3.6
@@ -1475,12 +1571,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 8
      - 0
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.7
@@ -1490,29 +1586,29 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 8
-     - 0
+     - 6
      - 0
      - 0
      - 0
      - 0
      - 10
+     - 10
      - 0
-     - 4.5
+     - 4.7
 
    * - Эрихман М.Е
      - 10
      - 10
      - 10
+     - 7
+     - 7
+     - 5
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 7
-     - 7
-     - 1
-     - 0
-     - 0
-     - 0
-     - 0
      - 10
      - 0
      - 4.5
@@ -1523,17 +1619,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -1544,20 +1640,19 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 8
      - 10
      - 6
-     - 3
-     - 4
+     - 8
+     - 6
+     - 1
      - 0
-     - 0
+     - 10
      - 8
      - 0
-     - 4.2
+     - 4.4
 
    * - Бурова А.Е
-     - 10
      - 10
      - 9
      - 10
@@ -1568,45 +1663,45 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.3
 
-   * - Волос П
+   * - Волос П.С
      - 10
-     - 9
      - 8
      - 10
      - 10
      - 10
-     - 4
+     - 8
      - 8
      - 5
      - 2
      - 0
-     - -1
-     - -1
-     - 0.6
-
-   * - Держаев А
      - 10
+     - 10
+     - 0
+     - 4.9
+
+   * - Держаев А.А
      - 10
      - 10
      - 10
      - 8
-     - 7
-     - 2
+     - 10
+     - 9
+     - 1
      - 0
      - 0
      - 0
+     - 10
+     - 10
      - 0
-     - -1
-     - -1
-     - 0.2
+     - 4.7
 
    * - Дерикошма А.М
      - 10
-     - 10
      - 6
      - 10
      - 6
@@ -1616,6 +1711,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 4
      - 0
      - 2.4
@@ -1627,27 +1723,27 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 5
-     - 7
-     - 1
+     - 10
+     - 6
      - 0
      - 0
+     - 10
      - 8
      - 0
-     - 4.3
+     - 4.5
 
    * - Захаржевский М
      - 10
+     - 5
+     - 0
+     - 0
+     - 5
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 5
-     - 0
-     - 0
-     - 5
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - -1
      - -1
      - -0.2
@@ -1657,19 +1753,18 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - 6
      - 0
      - 3.2
 
    * - Папа-Дмитриева Ю.А
-     - 10
      - 10
      - 10
      - 10
@@ -1680,12 +1775,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 7
      - 0
      - 3.5
 
    * - Сазонов П.К
-     - 10
      - 10
      - 3
      - 8
@@ -1696,6 +1791,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 3.6
@@ -1705,35 +1801,50 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 8
+     - 10
      - 10
      - 8
-     - 9
-     - 8
-     - 8
+     - 6
      - 0
-     - 0
+     - 10
      - 10
      - 0
      - 5.1
 
-   * - Червяков Н
+   * - Соловьёв М.А
      - 10
      - 10
      - 10
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
+     - 10
+     - -1
+     - 10
      - -1
      - -1
-     - 0.0
+     - 0
+     - 10
+     - -1
+     - -1
+     - 0.4
+
+   * - Червяков Н.А
+     - 10
+     - 10
+     - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 10
+     - 4
+     - 0
+     - 2.2
 
    * - Эльгухари А.С
-     - 10
      - 10
      - 10
      - 8
@@ -1744,6 +1855,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - -0.2
@@ -1754,17 +1866,17 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    :header-rows: 1
 
    * - Имя
-     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
-     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
-     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
-     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
-     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
-     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
-     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
-     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
-     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
-     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
-     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `1 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94103>`_
+     - `2 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94104>`_
+     - `3 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94105>`_
+     - `4 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94106>`_
+     - `5 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94107>`_
+     - `6 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94108>`_
+     - `7 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94109>`_
+     - `8 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94110>`_
+     - `9 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94111>`_
+     - `10 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=94112>`_
+     - `11 <http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=940102>`_
      - КР1
      - КР2
      - Оценка
@@ -1775,7 +1887,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 9
      - 8
      - 1
@@ -1783,6 +1894,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 6
      - 0
      - 3.1
@@ -1794,17 +1906,16 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 8
+     - 8
      - 10
-     - 8
-     - 8
-     - 8
-     - 0
+     - 3
+     - 10
      - 10
      - 0
      - 5.3
 
    * - Боботов А.Н
-     - 10
      - 10
      - 9
      - 10
@@ -1815,12 +1926,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 3.7
 
-   * - Каменская Е
-     - 10
+   * - Каменская Е.К
      - 9
      - 10
      - 10
@@ -1831,12 +1942,12 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
-     - -1
-     - -1
-     - 0.0
+     - 10
+     - 10
+     - 0
+     - 4.3
 
    * - Каневский Д.Е
-     - 10
      - 10
      - 10
      - 10
@@ -1848,11 +1959,11 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 10
+     - 10
      - 0
      - 4.5
 
    * - Карцева И.А
-     - 10
      - 10
      - 10
      - 10
@@ -1864,11 +1975,11 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 10
+     - 10
      - 0
      - 4.7
 
    * - Кузнецов Д
-     - 10
      - 10
      - 10
      - 10
@@ -1879,6 +1990,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - -1
      - -1
      - 0.0
@@ -1917,7 +2029,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
 
    * - Ле Н.Л
      - 10
-     - 10
      - 8
      - 10
      - 10
@@ -1926,7 +2037,8 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 5
      - 8
      - 7
-     - 0
+     - 7
+     - 10
      - 10
      - 0
      - 5.1
@@ -1936,13 +2048,13 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 1
      - 0
      - 0
      - 0
      - 0
      - 0
+     - 10
      - 10
      - 0
      - 4.5
@@ -1951,7 +2063,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 2
      - 0
      - 0
@@ -1959,6 +2070,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 9
      - 0
      - 4.0
@@ -1967,7 +2079,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
-     - 10
      - 9
      - 8
      - 0
@@ -1976,6 +2087,7 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 10
+     - 10
      - 0
      - 4.5
 
@@ -1983,49 +2095,49 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 10
      - 10
      - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
      - 10
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
      - -1
      - -1
      - 0.0
 
    * - Равилова Д
-     - 10
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 0
+     - 1
+     - -1
+     - -1
+     - -0.8
+
+   * - Равилова Д.М
      - 10
      - 10
      - 10
      - 10
      - 10
      - 8
-     - 2
+     - 7
      - 2
      - 1
      - 0
-     - -1
-     - -1
-     - 0.6
-
-   * - Равилова Д
-     - 1
+     - 10
+     - 10
      - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - 0
-     - -1
-     - -1
-     - -0.8
+     - 4.9
 
    * - Равилова Д.О
      - 0
@@ -2046,7 +2158,6 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
    * - Саманюк Э.Э
      - 10
      - 10
-     - 10
      - 8
      - 6
      - 0
@@ -2055,13 +2166,13 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 0
+     - 10
      - 8
      - 0
      - 3.4
 
    * - Соловьева А.М
      - 10
-     - 10
      - 8
      - 10
      - 7
@@ -2070,32 +2181,32 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 5
      - 7
      - 10
-     - 0
+     - 7
+     - 10
      - 9
      - 0
      - 4.7
 
    * - Сон Д.Д
      - 10
+     - 7
+     - 6
+     - 7
+     - 7
+     - 6
+     - 3
+     - 6
+     - 2
+     - 0
      - 10
      - 7
-     - 6
-     - 7
-     - 7
-     - 6
-     - 2
-     - 3
-     - 2
      - 0
-     - 7
-     - 0
-     - 3.6
+     - 3.8
 
    * - Уманский Р.А
      - 10
      - 10
      - 10
-     - 10
      - 6
      - 8
      - 3
@@ -2104,37 +2215,38 @@ __ http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=940102
      - 0
      - 0
      - 10
+     - 10
      - 0
      - 4.5
 
    * - Хоанг Ч.Ф
+     - 10
+     - 6
+     - 10
+     - 4
+     - 8
+     - 5
+     - 10
+     - 6
+     - 8
+     - 7
      - 1
-     - 10
-     - 6
-     - 10
-     - 4
-     - 8
-     - 5
-     - 10
-     - 6
-     - 8
-     - 0
      - 5
      - 0
-     - 2.9
+     - 3.1
 
-   * - Ширванян Л
+   * - Ширванян Л.В
      - 10
-     - 9
      - 4
-     - 5
+     - 10
+     - 1
      - 0
      - 0
      - 0
      - 0
      - 0
      - 0
+     - 10
+     - 8
      - 0
-     - -1
-     - -1
-     - -0.2
+     - 3.6
