@@ -60,5 +60,5 @@ __ https://meet.google.com/qyb-sofd-nzz
 
 Аппеляция оценки будет проходить в понедельник, 21.12.2021 с 14:00 до 18:00 по `ссылке`__
 
-__ hhtps://meet.jit.si/gertsev_mipt_inf
+__ https://meet.jit.si/gertsev_mipt_inf
 
