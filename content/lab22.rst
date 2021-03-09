@@ -1,9 +1,9 @@
 Работа с файлами, построение графиков
 #####################################
 
-:date: 2020-03-17 09:00
+:date: 2021-03-10 09:00
 :summary: Файлы, time, numpy, matplotlib, задачи
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
