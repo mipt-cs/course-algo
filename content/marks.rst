@@ -4,7 +4,7 @@
 
 :date: 2020-08-01 08:00
 :summary: Оценки студентов за контесты
-:status: published
+:status: draft
 :published: yes
 
 .. default-role:: code
