@@ -1,9 +1,9 @@
 Базовый синтаксис языка Python
 ##############################
 
-:date: 2020-09-09 09:00
+:date: 2021-09-09 09:00
 :summary: Работа в интерпретаторе Python 3.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

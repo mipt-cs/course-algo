@@ -1,9 +1,9 @@
 Списки
 ############################################
 
-:date: 2020-10-07 09:00
+:date: 2021-10-07 09:00
 :summary: Контест на спискам.
-:status: published
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание
