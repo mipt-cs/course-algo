@@ -3,7 +3,7 @@
 
 :date: 2021-03-21 09:00
 :summary: Контест по обходу графа в глубину
-
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание

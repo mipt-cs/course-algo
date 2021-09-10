@@ -3,7 +3,7 @@
 
 :date: 2021-04-04 09:00
 :summary: Контест, лекция
-
+:status: draft
 .. default-role:: code
 .. contents:: Содержание
 

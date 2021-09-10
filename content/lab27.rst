@@ -3,7 +3,7 @@
 
 :date: 2021-04-11 09:00
 :summary: Лекция
-
+:status: draft
 
 .. default-role:: code
 .. contents:: Содержание
