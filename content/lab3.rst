@@ -13,6 +13,6 @@
 
 Участвовать_ в контесте.
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=094103
+.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=094103
 
 
