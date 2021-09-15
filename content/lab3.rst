@@ -3,7 +3,7 @@
 
 :date: 2021-09-09 09:00
 :summary: Суммирование последовательности, поиск среднего, максимального и т.д.
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
