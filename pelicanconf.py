@@ -21,7 +21,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-MENUITEMS = (('Уроки курса', '/'),)
+MENUITEMS = (('Главная', SITEURL), ('Оценки', 'http://cs.mipt.ru/gertsev/files/marks.html'))
 
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),

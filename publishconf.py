@@ -23,4 +23,4 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
-MENUITEMS = (('Главная', SITEURL),)
+MENUITEMS = (('Главная', SITEURL), ('Оценки', 'http://cs.mipt.ru/gertsev/files/marks.html'))
