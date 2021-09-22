@@ -3,7 +3,7 @@
 
 :date: 2021-09-23 09:00
 :summary: Системы счисления, однопроходный поиск нескольких максимумов/минимумов, системы счисления.
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
@@ -40,6 +40,6 @@
 
 Участвовать_ в контесте.
 
-.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=094104
+.. _Участвовать: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=094104
 
 
