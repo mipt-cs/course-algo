@@ -3,7 +3,7 @@
 
 :date: 2021-10-07 09:00
 :summary: Контест на спискам.
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
