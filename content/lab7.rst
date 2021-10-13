@@ -21,14 +21,6 @@
 ФМБФ
 ====
 
-`Суббота 9:00-12:10`__.
+`Б06-004`__.
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203102
-
-`Суббота 12:20-15:20`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203103
-
-`Суббота 15:30-18:30`__.
-
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203104
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93100
