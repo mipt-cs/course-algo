@@ -3,7 +3,7 @@
 
 :date: 2021-10-13 09:00
 :summary: Контрольная работа по пройденным темам
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
