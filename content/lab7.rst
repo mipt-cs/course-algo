@@ -24,3 +24,8 @@
 `Б06-004`__.
 
 .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93100
+
+
+`Б06-001`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93101
