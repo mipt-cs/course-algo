@@ -3,7 +3,7 @@
 
 :date: 2021-10-20 09:00
 :summary: Алгоритмы сортировок
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
