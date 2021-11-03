@@ -3,7 +3,7 @@
 
 :date: 2021-11-03 09:00
 :summary: Алгоритмы быстрых сортировок
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
