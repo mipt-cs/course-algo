@@ -3,7 +3,7 @@
 
 :date: 2021-11-10 09:00
 :summary: Контест по бинарному поиску
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
