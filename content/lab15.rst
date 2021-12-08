@@ -3,7 +3,7 @@
 
 :date: 2021-12-08 09:00
 :summary: Семестровая контрольная работа
-:status: draft
+:status: published
 
 .. default-role:: code
 
