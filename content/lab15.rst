@@ -18,4 +18,7 @@
 
 .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93113
 
+`8 декабря, среда 13:55`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93114
 
