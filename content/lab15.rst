@@ -22,3 +22,7 @@
 
 .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93114
 
+`11 декабря, суббота 09:00`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93115
+
