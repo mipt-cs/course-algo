@@ -29,3 +29,11 @@
 `11 декабря, суббота 17:05`__.
 
 .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93116
+
+`13 декабря, понедельник 15:30`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93117
+
+`14 декабря, вторник 9:00`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=93118
