@@ -1,9 +1,9 @@
 Множества и словари в Python
 ##################################
 
-:date: 2021-02-15 09:00
+:date: 2022-02-22 09:00
 :summary: Множества, словари и задачи
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
