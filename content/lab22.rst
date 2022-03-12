@@ -4,6 +4,7 @@
 :date: 2022-03-10 09:00
 :summary: Файлы, time, numpy, matplotlib, задачи
 :status: published
+
 .. default-role:: code
 .. contents:: Содержание
 
