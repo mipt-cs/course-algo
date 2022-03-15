@@ -1,9 +1,9 @@
 Контрольная работа №1
 #####################
 
-:date: 2021-03-16 09:00
+:date: 2022-03-15 09:00
 :summary: Контрольная работа по пройденным темам
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
@@ -11,7 +11,5 @@
 Контест - Контрольная №1
 ========================
 
-Участвовать в контесте по адресу `http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=NUMBER`.
-
-Номер контеста **NUMBER** можно узнать у преподавателя
+Б06-003, Б06-005 `http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203301`.
 
