@@ -11,5 +11,7 @@
 Контест - Контрольная №1
 ========================
 
-Б06-003, Б06-005 `http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203301`.
+Вторник 9:00 – 12:20 `Б06-003, Б06-005`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203301
 
