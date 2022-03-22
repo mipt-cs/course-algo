@@ -23,14 +23,14 @@
 
 .. .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203303
 
-Суббота 09:00 – 12:20 `Б06-008, Б06-001, Б06-009`__.
+.. Суббота 09:00 – 12:20 `Б06-008, Б06-001, Б06-009`__.
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203304
+.. .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203304
 
-Суббота 10:45 – 13:45 `Б06-007, Б06-002`__.
+.. Суббота 10:45 – 13:45 `Б06-007, Б06-002`__.
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203305
+.. .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203305
 
-Суббота 17:00 – 20:00 `Б06-006`__.
+.. Суббота 17:00 – 20:00 `Б06-006`__.
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203306
+.. .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203306
