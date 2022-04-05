@@ -3,7 +3,7 @@
 
 :date: 2022-04-05 09:00
 :summary: Контест, лекция
-:status: draft
+:status: published
 .. default-role:: code
 .. contents:: Содержание
 
