@@ -4,6 +4,7 @@
 :date: 2022-04-05 09:00
 :summary: Контест, лекция
 :status: published
+
 .. default-role:: code
 .. contents:: Содержание
 
