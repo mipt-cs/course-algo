@@ -48,7 +48,7 @@ ARTICLE_ORDER_BY = 'date'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican_youtube', 'code_include']
+PLUGINS = ['code_include']
 
 STATIC_PATHS = [
     'images',

@@ -3,7 +3,7 @@
 
 :date: 2022-04-12 09:00
 :summary: Лекция
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
