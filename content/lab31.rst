@@ -3,7 +3,7 @@
 
 :date: 2022-05-18 09:00
 :summary: Вопросы билетов устного зачёта.
-:status: draft
+:status: published
 
 .. default-role:: code
 .. contents:: Содержание
