@@ -20,4 +20,5 @@
 .. .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=203402
 
 - `04 мая. 15:30 – 17:30 Б06-004`__
+
 .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=203403
