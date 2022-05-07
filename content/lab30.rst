@@ -23,6 +23,18 @@
 
 .. .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=203403
 
-- `06 мая. 17:05 – 19:05 Б03-108`__
+.. - `06 мая. 17:05 – 19:05 Б03-108`__
 
-.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=203404
+.. .. __: http://judge2.vdi.mipt.ru/cgi-bin/new-register?contest_id=203404
+
+07 мая 09:00 – 11:00 `Б06-001, Б06-008, Б06-009`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203405
+
+07 мая 10:45 – 12:45 `Б06-002, Б06-007`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203406
+
+07 мая 17:00 – 19:00 `Б06-006`__.
+
+.. __: http://judge2.vdi.mipt.ru/cgi-bin/new-client?contest_id=203407
